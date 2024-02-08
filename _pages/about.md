@@ -19,6 +19,7 @@ news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+---
 
 Welcome to my professional page! I'm Dr. John Holash, a dedicated educator and researcher based in Calgary, Alberta, specializing in muscle physiology and the transformative power of exercise on the human body. With a fervent passion for both the scientific understanding and practical application of exercise physiology, I've spent years unraveling the intricate mechanisms through which physical activity influences our health and well-being.
 
