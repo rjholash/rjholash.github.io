@@ -24,11 +24,10 @@
   },
   "work": [
     {
-      "name": "Faculty of Kinesiology, Univeristy of Calgary",
+      "name": "Faculty of Kinesiology, University of Calgary",
       "position": "Professor of Exercise Physiology",
-      "url": "https://example.com",
-      "startDate": "1997-09-01",
-      "endDate": "Current",
+      "url": "https://profiles.ucalgary.ca/john-holash",
+      "startDate": "1997-09",
       "summary": "Dr. John Holash is a recognized expert in the fields of Exercise Physiology, Muscle Physiology, and Computational Biology, currently serving as an assistant professor at the University of Calgary in the Faculty of Kinesiology's Human Performance Lab. His commitment to understanding and optimizing human performance is deeply rooted in both his academic pursuits and personal experiences as an athlete an adventurer and a researcher.",
       "highlights": ["Muscle Structure and Function"]
     }
@@ -41,30 +40,26 @@
       "area": "Faculty of Kinesiology",
       "studyType": "PhD",
       "startDate": "2010-09-01",
-      "endDate": "20165-04-01",
+      "endDate": "2016-04-01",
       "score": "10",
       "courses": ["Muscle Physiology, Computational Biology"]
     }
   ],
   "publications": [
     {
-        "type": "book",
-        "authors": ["Cossich, Victor R. A.", "Carlgren, Dave", "Holash, Robert John",  "Katz, Larry"],
-        "publisher": "Encyclopedia.pub",
         "name": "Technological Breakthroughs in Sport",
+        "publisher": "Encyclopedia.pub",
+        "releaseDate": "2024-02-29",
         "url": "https://encyclopedia.pub/entry/55692",
-        "volume": "55692",
-        "year": "2024"
+        "authors":  ["Cossich, Victor R. A.", "Carlgren, Dave", "Holash, Robert John",  "Katz, Larry"],
+        "summary": "An encyclopedia article outlining the potential impacts of AI and VR on current sports science"
     },
     {
-        "type": "article",
-        "key": "marinari23",
         "authors": ["Marinari, Gabriele", "Iannetta1, Danilo", "Holash, John R.",  "Trama, Robin",  "Zagatto, Alessandro M.", "Keir A., Daniel", "Murias, Juan M."],
-        "date-added": "2024-02-28 15:22:11 -0700",
-        "date-modified": "2024-02-28 15:22:11 -0700",
+        "releaseDate": "2024-02-28",
         "journal": "In review",
         "status": "in submission",
-        "title": "\\textbf{In review} Reducing metabolic instability on transition to constant-work rate exercise decreases steady-state oxygen uptake."
+        "name": "{In review} Reducing metabolic instability on transition to constant-work rate exercise decreases steady-state oxygen uptake."
     },
     {
         "type": "article",
