@@ -34,7 +34,7 @@
     }
   ],
   "education": [
-    {
+    { 
       "institution": "University of Calgary",
       "location": "Calgary, Alberta",
       "url": "https://ucalgary.ca/",
@@ -49,16 +49,10 @@
   "publications": [
     {
         "type": "book",
-        "key": "cossich_24",
-        "address": "Postfach, CH-4020 Basel, Switzerland",
-        "author": "Cossich, Victor R. A. and  Carlgren, Dave and Holash, Robert John  and  Katz, Larry",
-        "date-added": "2024-02-28 15:23:52 -0700",
-        "date-modified": "2024-02-28 15:36:17 -0700",
-        "keywords": "Encyclopedia, peereviewed",
+        "authors": ["Cossich, Victor R. A.", "Carlgren, Dave", "Holash, Robert John".  "Katz, Larry"],
         "publisher": "Encyclopedia.pub",
-        "title": "Technological Breakthroughs in Sport",
+        "name": "Technological Breakthroughs in Sport",
         "url": "https://encyclopedia.pub/entry/55692",
-        "urldate": "2024-02-28",
         "volume": "55692",
         "year": "2024"
     },
