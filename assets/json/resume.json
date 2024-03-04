@@ -27,8 +27,8 @@
       "name": "Faculty of Kinesiology, University of Calgary",
       "position": "Professor of Exercise Physiology",
       "url": "https://profiles.ucalgary.ca/john-holash",
-      "startDate": "1997-09",
-      "summary": "Dr. John Holash is a recognized expert in the fields of Exercise Physiology, Muscle Physiology, and Computational Biology, currently serving as an assistant professor at the University of Calgary in the Faculty of Kinesiology's Human Performance Lab. His commitment to understanding and optimizing human performance is deeply rooted in both his academic pursuits and personal experiences as an athlete an adventurer and a researcher.",
+      "startDate": "2018",
+      "summary": "Dr. John Holash is a recognized expert in the fields of Exercise Physiology, Muscle Physiology, and Computational Biology, currently serving as an assistant professor at the University of Calgary in the Faculty of Kinesiology's Human Performance Lab. His commitment to understanding and optimizing human performance is deeply rooted in both his academic pursuits and personal experiences as an athlete, adventurer and a researcher.",
       "highlights": ["Muscle Structure and Function"]
     }
   ],
@@ -39,8 +39,7 @@
       "url": "https://ucalgary.ca/",
       "area": "Faculty of Kinesiology",
       "studyType": "PhD",
-      "startDate": "2010-09-01",
-      "endDate": "2016-04-01",
+      "startDate": "2010",
       "score": "10",
       "courses": ["Muscle Physiology, Computational Biology"]
     }
@@ -52,7 +51,7 @@
         "releaseDate": "2024-02-29",
         "url": "https://encyclopedia.pub/entry/55692",
         "authors":  ["Cossich, Victor R. A.", "Carlgren, Dave", "Holash, Robert John",  "Katz, Larry"],
-        "summary": "An encyclopedia article outlining the potential impacts of AI and VR on current sports science"
+        "summary": "An encyclopedia article outlining the potential impacts of artificial intelligence (AI) and virtual reality (VR) on current sports science"
     },
     {
         "authors": ["Marinari, Gabriele", "Iannetta1, Danilo", "Holash, John R.",  "Trama, Robin",  "Zagatto, Alessandro M.", "Keir A., Daniel", "Murias, Juan M."],
@@ -62,39 +61,24 @@
         "name": "{In review} Reducing metabolic instability on transition to constant-work rate exercise decreases steady-state oxygen uptake."
     },
     {
-        "type": "article",
-        "key": "anaerobic_thresh",
+        "name": "In support of the continued use of the term anaerobic threshold",
         "author": "MacIntosh, Brian R. and MacDougall, Keenan B. and Falconer, Tara M. and Holash, R. John",
-        "date-added": "2024-02-28 15:22:11 -0700",
-        "date-modified": "2024-02-28 15:22:11 -0700",
         "doi": "https://doi.org/10.1113/JP281262",
-        "eprint": "https://physoc.onlinelibrary.wiley.com/doi/pdf/10.1113/JP281262",
-        "journal": "The Journal of Physiology",
-        "number": "*",
-        "pages": "*",
-        "title": "In support of the continued use of the term anaerobic threshold",
-        "url": "https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/JP281262",
-        "volume": "*",
+        "url": "https://physoc.onlinelibrary.wiley.com/doi/pdf/10.1113/JP281262",
+        "publisher": "The Journal of Physiology",
         "year": "2021",
-        "bdsk-url-1": "https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/JP281262",
-        "bdsk-url-2": "https://doi.org/10.1113/JP281262"
     },
     {
-        "type": "article",
-        "key": "holash3d",
         "author": "Holash, Robert J and MacIntosh, Brian R",
-        "date-added": "2024-02-28 15:22:11 -0700",
-        "date-modified": "2024-02-28 15:22:11 -0700",
-        "day": "7",
         "doi": "https://doi.org/10.1371/journal.pcbi.1006712",
         "issue": "3",
         "journal": "PLoS Computational Biology",
         "month": "3",
         "pages": "1-25",
-        "title": "A stochastic simulation of skeletal muscle calcium transients in a structurally realistic sarcomere model using MCell.",
+        "name": "A stochastic simulation of skeletal muscle calcium transients in a structurally realistic sarcomere model using MCell.",
         "volume": "15",
         "year": "2019",
-        "bdsk-url-1": "https://doi.org/10.1371/journal.pcbi.1006712"
+        "url": "https://doi.org/10.1371/journal.pcbi.1006712"
     },
     {
         "type": "article",
