@@ -39,8 +39,8 @@
       "url": "https://ucalgary.ca/",
       "area": "Muscle Physiology & Computational Biology",
       "studyType": "PhD",
-      "startDate": "2010-09",
-      "endDate": "2010-09",
+      "startDate": "2010",
+      "endDate": "2016",
       "score": "10",
       "courses": ["Muscle Physiology", "Computational Biology"]
     },
@@ -50,8 +50,8 @@
       "url": "https://ucalgary.ca/",
       "area": "Exercise Physiology & Biomechanics",
       "studyType": "MSc",
-      "startDate": "2000-09",
-      "endDate": "2000-09",
+      "startDate": "1997",
+      "endDate": "2000",
       "score": "10",
       "courses": ["Exercise Physiology", "Biomechanics"]
     }
@@ -68,16 +68,17 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Physiology",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Muscle Physiology",
+        "Exercise Physiology",
+        "Environmental Physiology",
+        "Biological Computation",
+        "Computational Biological",
+        "Wearable Technological",
+        "Thermal Physiology"
       ]
     }
   ],
@@ -85,12 +86,12 @@
     {
       "language": "English",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-heart"
     },
     {
       "language": "German",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Passable",
+      "icon": "fa-solid fa-thumbs-up "
     }
   ]
 }
