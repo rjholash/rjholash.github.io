@@ -42,7 +42,7 @@
       "startDate": "2010-09",
       "endDate": "2010-09",
       "score": "10",
-      "courses": ["Muscle Physiology, Computational Biology"]
+      "courses": ["Muscle Physiology", "Computational Biology"]
     },
     { 
       "institution": "University of Calgary",
@@ -52,8 +52,9 @@
       "studyType": "MSc",
       "startDate": "2000-09",
       "endDate": "2000-09",
-      "score": "10"
-    },
+      "score": "10",
+      "courses": ["Exercise Physiology", "Biomechanics"]
+    }
   ],
   "publications": [
     {
