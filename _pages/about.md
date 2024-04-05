@@ -2,13 +2,13 @@
 layout: about
 title: about me
 permalink: /
-subtitle: <a href='#'>Univeristy of Calgary -Faculty of Kinesiology-</a>. 2500 University Drive N.W. Calgary, AB. Canada. "The future is faster than you think!"
+subtitle: <a href='https://ucalgary.ca'>Univeristy of Calgary<a> <br> <a href='https://kinesiology/ucalgary.ca'>Faculty of Kinesiology</a><br> 2500 University Drive N.W.<br> Calgary, AB.<br> Canada.<br> "The future is faster than you think!"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: | #> removed and replaced with the pipe
     <p>KNB 436</p>
     <p>Faculty of Kinesiology</p>
     <p>Human Performance Laboratory</p>
