@@ -2,7 +2,7 @@
 layout: about
 title: the lab
 permalink: /
-subtitle: <a href='https://profiles.ucalgary.ca/john-holash'> R. John Holash</a><br><a href='https://ucalgary.ca'>Univeristy of Calgary<a> <br> <a href='https://kinesiology.ucalgary.ca/'>Faculty of Kinesiology</a><br> 2500 University Drive N.W.<br> Calgary, AB. Canada.<br> "The future is faster than you think!"
+subtitle: <a href='https://profiles.ucalgary.ca/john-holash'> R. John Holash</a><br><a href='https://ucalgary.ca'>Univeristy of Calgary<a> <br> <a href='https://kinesiology.ucalgary.ca/'>Faculty of Kinesiology</a><br> 2500 University Drive N.W.<br> Calgary, AB. Canada.<br><b><i>"The future is faster than you think!"</i></b>
 
 profile:
   align: right
@@ -21,8 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to the digital athlete lab! I'm Dr. John Holash, an educator and researcher based in Calgary, Alberta, specializing in muscle physiology and the transformative power of exercise on the human body. With a passion for both the scientific understanding and practical application of exercise physiology, I've spent years unraveling the intricate mechanisms through which physical activity influences our health, well-being, and the aging process.
+Welcome to the digital athlete lab! I'm Dr. John Holash, an educator and researcher based in Calgary, Alberta, specializing in muscle physiology and the transformative power of exercise on the human body. With a passion for both the scientific understanding and practical application of exercise physiology, I've spent years unraveling the complex intricate mechanisms through which physical activity influences our health, well-being, and the aging process.
 
-My academic journey has been a blend of research, leadership, and mentoring, aimed at instilling a deep-seated curiosity about human physiology among my students. At the core of my teaching philosophy lies the belief in a "learning by doing" approach that transcends traditional active learning methods, emphasizing the importance of creating cognitive maps for learning, maintaining optimal stress for performance, and fostering environments where students can engage actively, assess their progress, and challenge ideas to enhance understanding through out their educational journey.
+<!-- My academic journey has been a blend of research, leadership, and mentoring, aimed at instilling a deep-seated curiosity about human physiology among my students. At the core of my teaching philosophy lies the belief in a "learning by doing" approach that transcends traditional active learning methods, emphasizing the importance of creating cognitive maps for learning, maintaining optimal stress for performance, and fostering environments where students can engage actively, assess their progress, and challenge ideas to enhance understanding through out their educational journey. -->
 
 Outside the classroom, you'll find me embracing the great outdoors, whether it's skiing down the pristine slopes of the Rockies, cycling through Alberta's breathtaking landscapes, canoeing the serene waters of Canada's vast lakes, or sailing the coasts. These activities are an integral parts of my research and personal ethos for health, fitness, and longevity.
