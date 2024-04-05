@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: <a href='https://ucalgary.ca'>Univeristy of Calgary<a> <br> <a href='https://kinesiology/ucalgary.ca'>Faculty of Kinesiology</a><br> 2500 University Drive N.W.<br> Calgary, AB.<br> Canada.<br> "The future is faster than you think!"
+subtitle: <a href='https://profiles.ucalgary.ca/john-holash'> R. John Holash</a><br><a href='https://ucalgary.ca'>Univeristy of Calgary<a> <br> <a href='https://kinesiology.ucalgary.ca/'>Faculty of Kinesiology</a><br> 2500 University Drive N.W.<br> Calgary, AB.<br> Canada.<br> "The future is faster than you think!"
 
 profile:
   align: right
