@@ -28,7 +28,7 @@
       "position": "Professor of Exercise Physiology",
       "url": "https://profiles.ucalgary.ca/john-holash",
       "startDate": "2018",
-      "endDate":"-",
+      "endDate": "-",
       "summary": "Dr. John Holash is a recognized expert in the fields of Exercise Physiology, Muscle Physiology, and Computational Biology, currently serving as an assistant professor at the University of Calgary in the Faculty of Kinesiology's Human Performance Lab. His commitment to understanding and optimizing human performance is deeply rooted in both his academic pursuits and personal experiences as an athlete, adventurer and a researcher.",
       "highlights": ["Muscle Structure and Function"]
     },
@@ -50,7 +50,7 @@
     }
   ],
   "education": [
-    { 
+    {
       "institution": "University of Calgary",
       "location": "Calgary, Alberta",
       "url": "https://ucalgary.ca/",
@@ -61,7 +61,7 @@
       "score": "10",
       "courses": ["Muscle Physiology", "Computational Biology"]
     },
-    { 
+    {
       "institution": "University of Calgary",
       "location": "Calgary, Alberta",
       "url": "https://ucalgary.ca/",
@@ -75,36 +75,36 @@
   ],
   "publications": [
     {
-        "name": "Technological Breakthroughs in Sport",
-        "publisher": "Encyclopedia.pub",
-        "releaseDate": "2024-02-29",
-        "url": "https://encyclopedia.pub/entry/55692",
-        "authors":  ["Cossich, Victor R. A.", "Carlgren, Dave", "Holash, Robert John",  "Katz, Larry"],
-        "summary": "An encyclopedia article outlining the potential impacts of artificial intelligence (AI) and virtual reality (VR) on current sports science"
+      "name": "Technological Breakthroughs in Sport",
+      "publisher": "Encyclopedia.pub",
+      "releaseDate": "2024-02-29",
+      "url": "https://encyclopedia.pub/entry/55692",
+      "authors": ["Cossich, Victor R. A.", "Carlgren, Dave", "Holash, Robert John", "Katz, Larry"],
+      "summary": "An encyclopedia article outlining the potential impacts of artificial intelligence (AI) and virtual reality (VR) on current sports science"
     },
     {
-        "name": "A Ramp- Versus Step-Transition to Constant-Work Rate Exercise Decreases Steady-State Oxygen Uptake",
-        "publisher": "Medicine and Science in Sport and Exercise",
-        "releaseDate": "2023-12-27",
-        "url": "https://europepmc.org/article/med/38181214",
-        "authors": ["Marinari G", "Iannetta D", "Holash R. J.", "Trama R", "Faricier R ", "Zagatto AM ", "Keir D. A ", "Murias J. M"],
-        "summary": "To investigate whether a ramp-to-constant-work rate (rCWR) transition compared to a square-wave-to-constant-work rate (CWR) transition within the heavy-intensity domain can reduce metabolic instability and decrease the oxygen cost of exercise."
+      "name": "A Ramp- Versus Step-Transition to Constant-Work Rate Exercise Decreases Steady-State Oxygen Uptake",
+      "publisher": "Medicine and Science in Sport and Exercise",
+      "releaseDate": "2023-12-27",
+      "url": "https://europepmc.org/article/med/38181214",
+      "authors": ["Marinari G", "Iannetta D", "Holash R. J.", "Trama R", "Faricier R ", "Zagatto AM ", "Keir D. A ", "Murias J. M"],
+      "summary": "To investigate whether a ramp-to-constant-work rate (rCWR) transition compared to a square-wave-to-constant-work rate (CWR) transition within the heavy-intensity domain can reduce metabolic instability and decrease the oxygen cost of exercise."
     },
     {
-        "name": "In support of the continued use of the term anaerobic threshold",
-        "publisher": "The Journal of Physiology",
-        "releaseDate": "2021-01-28",
-        "url": "https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/JP281262",
-        "authors": ["Brian R. MacIntosh", "Keenan B. MacDougall", "Tara M. Falconer", "R. John Holash"],
-        "summary": "We would like to suggest that the appropriate meaning of the term ‘anaerobic threshold’is the highest intensity that can be sustained exclusively by aerobic metabolism, as suggested previously (Svedahl & MacIntosh, 2003). Above this intensity there is a sustained contribution of energy from glycolysis "
+      "name": "In support of the continued use of the term anaerobic threshold",
+      "publisher": "The Journal of Physiology",
+      "releaseDate": "2021-01-28",
+      "url": "https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/JP281262",
+      "authors": ["Brian R. MacIntosh", "Keenan B. MacDougall", "Tara M. Falconer", "R. John Holash"],
+      "summary": "We would like to suggest that the appropriate meaning of the term ‘anaerobic threshold’is the highest intensity that can be sustained exclusively by aerobic metabolism, as suggested previously (Svedahl & MacIntosh, 2003). Above this intensity there is a sustained contribution of energy from glycolysis "
     },
     {
-        "name": "A stochastic simulation of skeletal muscle calcium transients in a structurally realistic sarcomere model using MCell",
-        "publisher": "PLOS Computational Biology",
-        "releaseDate": "2019-3-7",
-        "authors": ["Holash R. J.", "MacIntosh B. R."],
-        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006712",
-        "summary": "Using MCell software, we developed a realistic myofibrillar half-sarcomere model that successfully reproduced and visualized the asymmetric calcium distribution during skeletal muscle contraction, aligning with experimental and previous simulation data."
+      "name": "A stochastic simulation of skeletal muscle calcium transients in a structurally realistic sarcomere model using MCell",
+      "publisher": "PLOS Computational Biology",
+      "releaseDate": "2019-3-7",
+      "authors": ["Holash R. J.", "MacIntosh B. R."],
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006712",
+      "summary": "Using MCell software, we developed a realistic myofibrillar half-sarcomere model that successfully reproduced and visualized the asymmetric calcium distribution during skeletal muscle contraction, aligning with experimental and previous simulation data."
     }
   ],
   "skills": [
