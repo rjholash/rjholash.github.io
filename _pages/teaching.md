@@ -23,29 +23,29 @@ I have taught a wide array of undergraduate and graduate courses across multiple
 
 ### Undergraduate Courses
 
-* **KNES 213 – Introduction to Research in Kinesiology**
+- **KNES 213 – Introduction to Research in Kinesiology**
   Taught: 2019–2024 (Fall, Winter, Spring)
   Typical Enrollment: 120–150 students
 
-* **KNES 375 – Tests and Measurement in Exercise Physiology**
+- **KNES 375 – Tests and Measurement in Exercise Physiology**
   Taught: 2020–2024 (Winter, Fall)
   Typical Enrollment: 75–84 students
 
-* **KNES 355 – Human Growth and Development**
+- **KNES 355 – Human Growth and Development**
   Taught: 2020–2021 (Winter)
   Enrollment: 250–262 students
 
-* **KNES 475 – Advanced Topics in Exercise Physiology**
+- **KNES 475 – Advanced Topics in Exercise Physiology**
   Taught: 2022 (Winter)
   Enrollment: 40 students
 
-* **KNES 381 – Computer Applications in Kinesiology**
+- **KNES 381 – Computer Applications in Kinesiology**
   Taught: 2010–2024 (Fall, Winter)
   Enrollment: 24 students per term
 
 ### Graduate Courses
 
-* **KNES 606 / KNES 613 / KNES 614 – Practical Skills for Applied Exercise Physiology**
+- **KNES 606 / KNES 613 / KNES 614 – Practical Skills for Applied Exercise Physiology**
   Taught: 2020–2024 (Fall/Winter)
   Enrollment: 9–14 students per term
 
@@ -53,9 +53,9 @@ I have taught a wide array of undergraduate and graduate courses across multiple
 
 Each course is structured using a macro–meso–micro development approach:
 
-* **Macro**: Course outlines with clear goals, evaluation timelines, and topic progressions.
-* **Meso**: Modular design with built-in assessment cycles.
-* **Micro**: Daily lesson plans responsive to student progress and feedback.
+- **Macro**: Course outlines with clear goals, evaluation timelines, and topic progressions.
+- **Meso**: Modular design with built-in assessment cycles.
+- **Micro**: Daily lesson plans responsive to student progress and feedback.
 
 Assignments are scaffolded to foster confidence early and independence later. Formative quizzes, interactive polling, and experiential labs allow students to engage meaningfully and safely with complex content. I design courses to be flexible enough to shift between in-person and online formats, ensuring pedagogical integrity across modalities.
 
