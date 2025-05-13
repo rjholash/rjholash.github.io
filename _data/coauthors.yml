@@ -1,34 +1,130 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+coauthors:
+  - name: "Brian R. MacIntosh"
+    affiliation: "University of Calgary"
+    role: "Senior Collaborator"
+  - name: "Juan M. Murias"
+    affiliation: "Hamad Bin Khalifa University, Qatar"
+    role: "International Collaborator"
+  - name: "Daniel A. Keir"
+    affiliation: "Western University, Canada"
+    role: "Research Collaborator"
+  - name: "Gabriele Marinari"
+    affiliation: "University of Calgary"
+    role: "Research Collaborator"
+  - name: "Danilo Iannetta"
+    affiliation: "University of Calgary"
+    role: "Research Collaborator"
+  - name: "Robin Trama"
+    affiliation: "Unknown"
+    role: "Research Collaborator"
+  - name: "Robin Faricier"
+    affiliation: "Unknown"
+    role: "Research Collaborator"
+  - name: "Alessandro M. Zagatto"
+    affiliation: "São Paulo State University, Brazil"
+    role: "International Collaborator"
+  - name: "Victor R. A. Cossich"
+    affiliation: "University of Calgary"
+    role: "Graduate Collaborator"
+  - name: "Dave Carlgren"
+    affiliation: "University of Calgary"
+    role: "Research Collaborator"
+  - name: "Larry Katz"
+    affiliation: "University of Calgary"
+    role: "Professor Emeritus / Educational Technology"
+  - name: "Keenan B. MacDougall"
+    affiliation: "University of Calgary"
+    role: "Graduate Student"
+  - name: "Tara M. Falconer"
+    affiliation: "University of Calgary"
+    role: "Graduate Student"
+  - name: "Ian Smith"
+    affiliation: "University of Calgary"
+    role: "Graduate Collaborator"
+  - name: "Walter Herzog"
+    affiliation: "University of Calgary"
+    role: "Senior Researcher"
+  - name: "Douglas Doyle-Baker"
+    affiliation: "University of Calgary"
+    role: "Collaborator"
+  - name: "John Temesi"
+    affiliation: "University of Calgary"
+    role: "Graduate Collaborator"
+  - name: "Mary E. Medysky"
+    affiliation: "University of Calgary"
+    role: "Graduate Collaborator"
+  - name: "Guillaume Y. Millet"
+    affiliation: "Université Jean Monnet, France"
+    role: "International Collaborator"
+  - name: "Rosie Twomey"
+    affiliation: "University of Calgary"
+    role: "Graduate Collaborator"
+  - name: "Nicole Culos-Reed"
+    affiliation: "University of Calgary"
+    role: "Faculty Collaborator"
+  - name: "Jean-Marc Renaud"
+    affiliation: "University of Ottawa"
+    role: "Collaborator"
+  - name: "Kazumoto Tanaka"
+    affiliation: "University of Calgary"
+    role: "Collaborator"
+  - name: "Jim Parker"
+    affiliation: "University of Calgary"
+    role: "Collaborator"
+  - name: "Graham Baradoy"
+    affiliation: "University of Calgary"
+    role: "Collaborator"
+  - name: "Dwayne Sheehan"
+    affiliation: "Mount Royal University"
+    role: "Collaborator"
+  - name: "Jared R. Fletcher"
+    affiliation: "University of Calgary"
+    role: "Graduate Collaborator"
+  - name: "Shane P. Esau"
+    affiliation: "University of Calgary"
+    role: "Graduate Collaborator"
+  - name: "Shuyue Liu"
+    affiliation: "University of Calgary"
+    role: "Student Collaborator"
+  - name: "Mahmoud Abusara"
+    affiliation: "University of Calgary"
+    role: "Collaborator"
+  - name: "Christopher Roberts"
+    affiliation: "University of Calgary"
+    role: "Student Collaborator"
+  - name: "Sach Dabgotra"
+    affiliation: "University of Calgary"
+    role: "Student Collaborator"
+  - name: "Gavin Thomas"
+    affiliation: "University of Calgary"
+    role: "Student Collaborator"
+  - name: "Jason Howard"
+    affiliation: "University of Calgary"
+    role: "Student Collaborator"
+  - name: "Venus Joumaa"
+    affiliation: "University of Calgary"
+    role: "Senior Collaborator"
+  - name: "Latif Omerkhil"
+    affiliation: "University of Calgary"
+    role: "Undergraduate Researcher"
+  - name: "Arianna Hu"
+    affiliation: "University of Calgary"
+    role: "NSERC Summer Student"
+  - name: "Birtej Mangat"
+    affiliation: "University of Calgary"
+    role: "NSERC Summer Student"
+  - name: "Sia Gaur"
+    affiliation: "University of Calgary"
+    role: "Honours Student"
+  - name: "Dana Litvak"
+    affiliation: "University of Calgary"
+    role: "Honours Student"
+  - name: "Ashley Matesic"
+    affiliation: "University of Calgary"
+    role: "Undergraduate Researcher"
+  - name: "Igor Kopecky"
+    affiliation: "University of Calgary"
+    role: "Graduate Collaborator"
+  - name: "Krista Sevdhal"
+    affiliation: "University of Calgary"
+    role: "Graduate Collaborator"
