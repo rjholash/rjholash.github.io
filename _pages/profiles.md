@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: people
 permalink: /people/
 title: lab team
 description: The brilliant minds powering the Digital Athlete Lab

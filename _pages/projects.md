@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research projects
 permalink: /projects/
-description: A growing collection of research and education projects in exercise physiology and applied science.
+description: Current and recent research projects from the Digital Athlete Lab
 nav: true
 nav_order: 3
-display_categories: [education-research, physiology, recovery, computational-biology, teaching-innovation]
+display_categories: [physiology, recovery, computational-biology, teaching-innovation]
 horizontal: false
 ---
 
