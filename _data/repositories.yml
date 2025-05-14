@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rjholash
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rjholash/rjholash.github.io
+  - rjholash/fitness-tracking
+  - rjholash/muscle-physiology-models
+  - rjholash/digital-athlete-lab
+  - rjholash/exercise-science-tools
