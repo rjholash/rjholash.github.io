@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Current happenings # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: Insights from the Digital Athlete Lab on muscle physiology and exercise science
 permalink: /blog/:year/:title/
 
 # Pagination
