@@ -1,0 +1,24 @@
+I need to create placeholder images for your website. Since I can't generate images directly, here's how to create simple placeholders:
+
+1. For muscle_activation.jpg:
+   Use an image related to EMG, muscle measurement, or clinical testing. You can:
+   - Take a screenshot from your own research
+   - Use a stock image with proper licensing
+   - Temporarily use one of your existing images like muscle_fiber_cp.jpg
+
+2. For virtual_lab.jpg:
+   Create an image showing virtual learning, remote labs, or digital education. You can:
+   - Screenshot from a virtual lab session
+   - Use imagery of digital learning
+   - Temporarily use one of your existing images
+
+In the meantime, your projects will use the path but won't show images until you add them to the assets/img/ folder.
+
+You can find free stock images at:
+- Unsplash.com
+- Pexels.com 
+- Pixabay.com
+
+Save your images as:
+- /assets/img/muscle_activation.jpg
+- /assets/img/virtual_lab.jpg

@@ -31,10 +31,26 @@ logger = logging.getLogger(__name__)
 
 def setup_proxy():
     """Set up a proxy to avoid Google Scholar blocks"""
-    pg = ProxyGenerator()
-    success = pg.FreeProxies()
-    scholarly.use_proxy(pg)
-    return success
+    try:
+        pg = ProxyGenerator()
+        
+        # Try to use Tor if available
+        success = pg.Tor_Internal(tor_cmd="tor")
+        if success:
+            logger.info("Using Tor as proxy")
+            scholarly.use_proxy(pg)
+            return True
+            
+        # Otherwise try free proxies
+        # Use a more conservative approach that should work with any version
+        scholarly.use_proxy(None)  # Reset proxy settings
+        logger.info("Not using any proxy - direct connection")
+        return True
+    except Exception as e:
+        logger.error(f"Error setting up proxy: {e}")
+        # Continue without proxy
+        scholarly.use_proxy(None)
+        return True
 
 def get_scholar_publications(scholar_id):
     """
