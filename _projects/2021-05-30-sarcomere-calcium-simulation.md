@@ -2,7 +2,7 @@
 layout: page
 title: "Calcium Diffusion Simulation in a 3D Sarcomere Model"
 description: Computational modeling of the muscle activation process
-img: projects/sarcomere_model.jpg
+img: sarcomere_model.jpg
 importance: 3
 category: computational-biology
 ---

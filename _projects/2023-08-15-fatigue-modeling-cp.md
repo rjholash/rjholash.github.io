@@ -2,7 +2,7 @@
 layout: page
 title: "Fatigue Modeling in Pediatric Muscle Populations"
 description: Understanding muscle contractile deficits in children with cerebral palsy
-img: projects/muscle_fiber_cp.jpg
+img: muscle_fiber_cp.jpg
 importance: 1
 category: physiology
 ---

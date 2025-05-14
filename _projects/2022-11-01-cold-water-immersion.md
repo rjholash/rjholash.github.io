@@ -2,7 +2,7 @@
 layout: page
 title: "Cold Water Immersion and Recovery in Trained Athletes"
 description: Optimizing recovery strategies through controlled temperature exposure
-img: projects/cold_water_immersion.jpg
+img: cold_water_immersion.jpg
 importance: 2
 category: recovery
 ---
