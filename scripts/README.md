@@ -17,13 +17,15 @@ If you want to run the update manually, you can:
 
 1. Install the required Python packages:
    ```bash
-   pip install scholarly requests beautifulsoup4
+   pip install scholarly==1.7.11 httpx==0.23.0 requests beautifulsoup4
    ```
 
 2. Run the script:
    ```bash
    python scripts/scholar_to_json.py --json_path "assets/json/resume.json"
    ```
+
+Your Google Scholar ID (`Qx4U24oAAAAJ`) is already configured in the script.
 
 ## Automated Updates
 
