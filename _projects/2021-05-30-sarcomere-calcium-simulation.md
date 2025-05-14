@@ -24,3 +24,9 @@ The simulation is built using MCell, a Monte Carlo simulator for cellular microp
 ## Research Impact
 
 This computational model helps bridge the gap between molecular mechanisms and whole-muscle function, offering insights into how structural changes affect calcium handling during muscle activation and fatigue. The findings have implications for understanding muscle disorders and developing targeted interventions.
+
+## Publication
+
+The methods and findings of this research were published in PLOS Computational Biology:
+
+[Holash RJ, MacIntosh BR (2019) A stochastic simulation of skeletal muscle calcium transients in a structurally realistic sarcomere model using MCell. PLOS Computational Biology 15(3): e1006712.](https://doi.org/10.1371/journal.pcbi.1006712)
