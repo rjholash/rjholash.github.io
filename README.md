@@ -16,6 +16,15 @@ This website showcases:
 - 🧰 **Open-source Tools** - Repositories and resources for exercise science research
 - 📰 **News & Updates** - Latest activities and achievements from our lab
 
+## 📋 Website Maintenance Documentation
+
+Comprehensive documentation for maintaining this website is available in the [docs](docs/) directory:
+
+- [Website Structure](docs/structure.md) - Overview of site organization
+- [Content Management](docs/content-management.md) - How to update CV, projects, and other content
+- [Publication Management](docs/publication-management/) - Cross-platform tools for publication updates
+- [Deployment Guide](docs/deployment.md) - How to test and deploy the website
+
 ## ⚙️ Technical Details
 
 This website is built using:
