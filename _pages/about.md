@@ -6,7 +6,7 @@ subtitle: <a href='https://profiles.ucalgary.ca/john-holash'> R. John Holash</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: vitual_lab.jpg
   image_circular: false # crops the image to make it circular
   more_info: | #> removed and replaced with the pipe
     <p>KNB 436</p>

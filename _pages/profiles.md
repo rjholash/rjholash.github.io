@@ -9,7 +9,7 @@ nav_order: 7
 profiles:
   # Lab Director
   - align: right
-    image: prof_pic.jpg
+    image: action-animation.jpg
     content: about_holash.md
     image_circular: false
     more_info: >
