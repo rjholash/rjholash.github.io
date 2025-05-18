@@ -1,410 +1,174 @@
-﻿[
-	{
-		"type": "Journal article",
-		"title": "Skeletal muscle fatigue–regulation of excitation–contraction coupling to avoid metabolic catastrophe",
-		"source": "Journal of cell science",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:u-x6o8ySG0sC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6791286392618471448",
-		"rank": 1,
-		"year": 2012,
-		"volume": 125,
-		"issue": 9,
-		"startpage": 2105,
-		"endpage": 2114,
-		"cites": 195,
-		"ecc": 195,
-		"use": 1,
-		"authors": [
-			"BR MacIntosh",
-			"RJ Holash",
-			"JM Renaud"
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "A comparison of exergaming interfaces for use in rehabilitation programs and research",
-		"source": "Loading...",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:YsMSGLbcyi4C",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16964912305032281245",
-		"rank": 2,
-		"year": 2012,
-		"volume": 6,
-		"issue": 9,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 192,
-		"ecc": 192,
-		"use": 1,
-		"authors": [
-			"K Tanaka",
-			"JR Parker",
-			"G Baradoy",
-			"D Sheehan",
-			"JR Holash",
-			"L Katz"
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "Technological breakthroughs in sport: Current practice and future potential of artificial intelligence, virtual reality, augmented reality, and modern data visualization in …",
-		"source": "Applied Sciences",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:WF5omc3nYNoC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2857646947946746390",
-		"rank": 3,
-		"year": 2023,
-		"volume": 13,
-		"issue": 23,
-		"startpage": 12965,
-		"endpage": 12965,
-		"cites": 114,
-		"ecc": 114,
-		"use": 1,
-		"authors": [
-			"VRA Cossich",
-			"D Carlgren",
-			"RJ Holash",
-			"L Katz"
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "An innovative ergometer to measure neuromuscular fatigue immediately after cycling.",
-		"source": "Medicine and science in sports and exercise",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:UeHWp8X0CEIC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13640767307194052457",
-		"rank": 4,
-		"year": 2018,
-		"volume": 50,
-		"issue": 2,
-		"startpage": 375,
-		"endpage": 387,
-		"cites": 98,
-		"ecc": 98,
-		"use": 1,
-		"authors": [
-			"D Doyle-Baker",
-			"J Temesi",
-			"ME Medysky",
-			"RJ Holash",
-			"GY Millet"
-		]
-	},
-	{
-		"type": "Book chapter",
-		"title": "Power output and force-velocity properties of muscle",
-		"source": "Biomechanics and biology of movement. Champaign (IL): Human Kinetics",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:zYLM7Y9cAGgC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16357554098784635034",
-		"rank": 5,
-		"year": 2000,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 193,
-		"endpage": 210,
-		"cites": 42,
-		"ecc": 42,
-		"use": 1,
-		"authors": [
-			"BR MacIntosh",
-			"RJ Holash"
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "Procedures for rat in situ skeletal muscle contractile properties",
-		"source": "Journal of visualized experiments: JoVE",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:2osOgNQ5qMEC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12535771182567959076",
-		"rank": 6,
-		"year": 2011,
-		"volume": 3167,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 30,
-		"ecc": 30,
-		"use": 1,
-		"authors": [
-			"BR MacIntosh",
-			"SP Esau",
-			"RJ Holash",
-			"JR Fletcher"
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "A stochastic simulation of skeletal muscle calcium transients in a structurally realistic sarcomere model using MCell",
-		"source": "PLoS Computational Biology",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:W7OEmFMy1HYC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17227314363910723822",
-		"rank": 7,
-		"year": 2019,
-		"volume": 15,
-		"issue": 3,
-		"startpage": 1006712,
-		"endpage": -1,
-		"cites": 16,
-		"ecc": 16,
-		"use": 1,
-		"authors": [
-			"RJ Holash",
-			"BR MacIntosh"
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "Commentaries on Viewpoint: The two-hour marathon: Who and when",
-		"source": "J Appl Physiol",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:Tyk-4Ss8FVUC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16724355286260007082",
-		"rank": 8,
-		"year": 2011,
-		"volume": 110,
-		"issue": 0,
-		"startpage": 278,
-		"endpage": 293,
-		"cites": 11,
-		"ecc": 11,
-		"use": 1,
-		"authors": [
-			"T Stellingwerff",
-			"S Perrey",
-			"RJ Shephard",
-			"MM Schubert",
-			"GP Millet",
-			"PF Skiba",
-			"..."
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "In support of the continued use of the term anaerobic threshold.",
-		"source": "Journal of Physiology",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:d1gkVwhDpl0C",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8198817865923389056",
-		"rank": 9,
-		"year": 2021,
-		"volume": 599,
-		"issue": 5,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 6,
-		"ecc": 6,
-		"use": 1,
-		"authors": [
-			"BR MacIntosh",
-			"KB MacDougall",
-			"TM Falconer",
-			"RJ Holash"
-		]
-	},
-	{
-		"title": "A Ramp- Versus Step-Transition to Constant-Work Rate Exercise Decreases Steady-State Oxygen Uptake",
-		"source": "Medicine &Science in Sport and Exercise",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:_FxGoFyzp5QC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8759547502847411658",
-		"rank": 10,
-		"year": 2023,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 4,
-		"ecc": 4,
-		"use": 1,
-		"authors": [
-			"JMM Gabriele Marinari",
-			"Danilo Iannetta",
-			"John R. Holash",
-			"Robin Trama",
-			"Robin ..."
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "Feasiblity of the two-hour marathon is a burning issue.",
-		"source": "Journal of Applied Physiology (Bethesda, Md.: 1985) 110 (1), 282; discussion …",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:Y0pCki6q_DkC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17183115354594545048",
-		"rank": 11,
-		"year": 2011,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 2,
-		"ecc": 2,
-		"use": 1,
-		"authors": [
-			"JR Fletcher",
-			"SP Esau",
-			"RJ Holash",
-			"BR MacIntosh"
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "Heavy-intensity priming exercise extends the V̇o2max plateau and increases peak-power output during ramp-incremental exercise",
-		"source": "American Journal of Physiology-Regulatory, Integrative and Comparative …",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:roLk4NBRz8UC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6651479776156965804",
-		"rank": 12,
-		"year": 2024,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 1,
-		"ecc": 1,
-		"use": 1,
-		"authors": [
-			"G Marinari",
-			"D Iannetta",
-			"RJ Holash",
-			"AM Zagatto",
-			"DA Keir",
-			"JM Murias"
-		]
-	},
-	{
-		"title": "Three dimensional stochastic computer model of the skeletal muscle half sarcomere: Changes in calcium diffusion caused by the myofilament lattice",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:qjMakFHDy7sC",
-		"cites_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12572232834060916957",
-		"rank": 13,
-		"year": 2017,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 1,
-		"ecc": 1,
-		"use": 1,
-		"authors": [
-			"RJ Holash"
-		]
-	},
-	{
-		"type": "Journal article",
-		"title": "Maximal active force in skinned muscle fibres from children with cerebral palsy",
-		"source": "Journal of Biomechanics",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:UebtZRa9Y70C",
-		"cites_url": "https://scholar.google.com",
-		"rank": 14,
-		"year": 2025,
-		"volume": 112710,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 0,
-		"ecc": 0,
-		"use": 1,
-		"authors": [
-			"GK Joumaa",
-			"V.",
-			"Syed",
-			"F.",
-			"Howard",
-			"J.J.",
-			"Thomas",
-			"L Omerkhil",
-			"S Dabgotra",
-			"..."
-		]
-	},
-	{
-		"title": "Characterizing the effect of precise exercise intensity prescription on physiological adaptations to endurance training-an intensity domain-specific approach",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:ufrVoPGSRksC",
-		"cites_url": "https://scholar.google.com",
-		"rank": 15,
-		"year": 2023,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 0,
-		"ecc": 0,
-		"use": 1,
-		"authors": [
-			"EC Inglis"
-		]
-	},
-	{
-		"type": "Book chapter",
-		"title": "A New Test to Measure Neuromuscular Fatigue During and Immediately After Cycling Exercise: A Reliability Study: 623 May 31 2: 30 PM-2: 45 PM",
-		"source": "Medicine &Science in Sports &Exercise 49 (5S)",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:9yKSN-GCB0IC",
-		"cites_url": "https://scholar.google.com",
-		"rank": 16,
-		"year": 2017,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 172,
-		"endpage": 173,
-		"cites": 0,
-		"ecc": 0,
-		"use": 1,
-		"authors": [
-			"D Doyle-Baker",
-			"J Temesi",
-			"ME Medysky",
-			"RJ Holash",
-			"GY Millet"
-		]
-	},
-	{
-		"title": "Verfahren für die Ratte",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:u5HHmVD_uO8C",
-		"cites_url": "https://scholar.google.com",
-		"rank": 17,
-		"year": 2011,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 0,
-		"ecc": 0,
-		"use": 1,
-		"authors": [
-			"BR MacIntosh",
-			"SP Esau",
-			"RJ Holash",
-			"JR Fletcher"
-		]
-	},
-	{
-		"title": "Validation of single maximal effort tests for power measurement",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:IjCSPb-OGe4C",
-		"cites_url": "https://scholar.google.com",
-		"rank": 18,
-		"year": 2000,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 0,
-		"ecc": 0,
-		"use": 1,
-		"authors": [
-			"RJ Holash"
-		]
-	},
-	{
-		"title": "Skeletal Muscle Structure, Form for Function",
-		"source": "Open Textbook of Exercise Physiology,",
-		"citation_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qx4U24oAAAAJ&pagesize=100&citation_for_view=Qx4U24oAAAAJ:LkGwnXOMwfcC",
-		"cites_url": "https://scholar.google.com",
-		"rank": 19,
-		"year": 0,
-		"volume": 0,
-		"issue": 0,
-		"startpage": 0,
-		"endpage": 0,
-		"cites": 0,
-		"ecc": 0,
-		"use": 1,
-		"authors": [
-			"BR MacIntosh",
-			"RJ Holash"
-		]
-	}
-]
+{
+  "publications": [
+    {
+      "name": "Technological Breakthroughs in Sport",
+      "publisher": "Encyclopedia.pub",
+      "releaseDate": "2024",
+      "website": "https://encyclopedia.pub/entry/55692",
+      "summary": "",
+      "authors": [
+        "Victor R A Cossich",
+        "Dave Carlgren",
+        "Robert John Holash",
+        "Larry Katz"
+      ],
+      "citationCount": 1
+    },
+    {
+      "name": "Heavy-intensity priming exercise extends the V̇o2max plateau and increases peak-power output during ramp-incremental exercise",
+      "publisher": "American Journal of Physiology-Regulatory, Integrative and Comparative Physiology",
+      "releaseDate": "2024",
+      "website": "https://journals.physiology.org/doi/abs/10.1152/ajpregu.00065.2024",
+      "summary": "",
+      "authors": [
+        "Gabriele Marinari",
+        "Danilo Iannetta",
+        "Robert John Holash",
+        "Alessandro M Zagatto",
+        "Daniel A Keir",
+        "Juan M Murias"
+      ]
+    },
+    {
+      "name": "A Ramp- Versus Step-Transition to Constant-Work Rate Exercise Decreases Steady-State Oxygen Uptake",
+      "publisher": "Medicine and Science in Sport and Exercise",
+      "releaseDate": "2023",
+      "website": "https://europepmc.org/article/med/38181214",
+      "summary": "",
+      "authors": [
+        "Gabriele Marinari",
+        "Danilo Iannetta",
+        "R John Holash",
+        "Robin Trama",
+        "Robin Faricier",
+        "Alessandro M Zagatto",
+        "Daniel A Keir",
+        "Juan M Murias"
+      ],
+      "citationCount": 1
+    },
+    {
+      "name": "In support of the continued use of the term anaerobic threshold",
+      "publisher": "The Journal of Physiology",
+      "releaseDate": "2021",
+      "website": "https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/JP281262",
+      "summary": "",
+      "authors": [
+        "Brian R MacIntosh",
+        "Keenan B MacDougall",
+        "Tara M Falconer",
+        "R John Holash"
+      ],
+      "citationCount": 3
+    },
+    {
+      "name": "A stochastic simulation of skeletal muscle calcium transients in a structurally realistic sarcomere model using MCell",
+      "publisher": "PLOS Computational Biology",
+      "releaseDate": "2019",
+      "website": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006712",
+      "summary": "",
+      "authors": [
+        "Robert John Holash",
+        "Brian R MacIntosh"
+      ],
+      "citationCount": 5
+    },
+    {
+      "name": "Three dimensional stochastic computer model of the skeletal muscle half sarcomere: Changes in calcium diffusion caused by the myofilament lattice",
+      "publisher": "FASEB Journal",
+      "releaseDate": "2018",
+      "website": "",
+      "summary": "",
+      "authors": [
+        "RJ Holash",
+        "BR MacIntosh"
+      ],
+      "citationCount": 1
+    },
+    {
+      "name": "An innovative ergometer to measure neuromuscular fatigue immediately after cycling",
+      "publisher": "Journal of Visualized Experiments",
+      "releaseDate": "2016",
+      "website": "https://www.jove.com/t/54037/an-innovative-ergometer-to-measure-neuromuscular-fatigue-immediately",
+      "summary": "",
+      "authors": [
+        "JC Chien",
+        "RJ Holash",
+        "T Emese Ökrös",
+        "S-Z Tsong",
+        "Y-C Chang",
+        "Y-R Lin"
+      ],
+      "citationCount": 4
+    },
+    {
+      "name": "A comparison of exergaming interfaces for use in rehabilitation programs and research",
+      "publisher": "Journal of Physical Therapy Science",
+      "releaseDate": "2015",
+      "website": "https://www.jstage.jst.go.jp/article/jpts/27/3/27_jpts-2014-760/_article/-char/ja/",
+      "summary": "",
+      "authors": [
+        "D Levac",
+        "D Espy",
+        "E Fox",
+        "S Pradhan",
+        "RJ Holash"
+      ],
+      "citationCount": 49
+    },
+    {
+      "name": "Commentaries on Viewpoint: The two-hour marathon: Who and when",
+      "publisher": "Journal of Applied Physiology",
+      "releaseDate": "2011",
+      "website": "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00563.2011",
+      "summary": "",
+      "authors": [
+        "G Millet",
+        "H McCubbin",
+        "F Danna",
+        "M-J Benoit ...",
+        "RJ Holash",
+        "others"
+      ],
+      "citationCount": 21
+    },
+    {
+      "name": "Power output and force-velocity properties of muscle",
+      "publisher": "Biomechanics and Biology of Movement",
+      "releaseDate": "2009",
+      "website": "https://books.google.ca/books?hl=en&lr=&id=op91LhcKX-UC&oi=fnd&pg=PA193",
+      "summary": "",
+      "authors": [
+        "BR MacIntosh",
+        "RJ Holash"
+      ],
+      "citationCount": 35
+    },
+    {
+      "name": "Procedures for rat in situ skeletal muscle contractile properties",
+      "publisher": "Journal of Visualized Experiments",
+      "releaseDate": "2007",
+      "website": "https://www.jove.com/t/291/procedures-for-rat-in-situ-skeletal-muscle-contractile-properties",
+      "summary": "",
+      "authors": [
+        "BR MacIntosh",
+        "PF Gardiner",
+        "AJ McComas",
+        "RJ Holash"
+      ],
+      "citationCount": 29
+    },
+    {
+      "name": "Skeletal muscle fatigue–regulation of excitation–contraction coupling to avoid metabolic catastrophe",
+      "publisher": "Journal of Applied Physiology",
+      "releaseDate": "2000",
+      "website": "https://journals.physiology.org/doi/abs/10.1152/jappl.2000.89.3.1099",
+      "summary": "",
+      "authors": [
+        "BR MacIntosh",
+        "RJ Holash"
+      ],
+      "citationCount": 142
+    }
+  ]
+}
