@@ -16,6 +16,7 @@ Cold water immersion has gained popularity as a recovery modality among athletes
 ## Methodology
 
 We use a combination of physiological markers to assess recovery:
+
 - Blood lactate clearance rates
 - Heart rate variability metrics
 - Core and skin temperature changes

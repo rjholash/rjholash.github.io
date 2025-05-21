@@ -47,4 +47,3 @@ Many elements of this educational innovation have been integrated into our regul
 - Greater emphasis on experimental design and adaptation
 - Increased focus on digital data collection and analysis
 - More flexible assessment options for students with special circumstances
-

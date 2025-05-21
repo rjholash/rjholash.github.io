@@ -55,4 +55,3 @@ This collaborative project brings together expertise from:
 - McCaig Institute for Bone and Joint Health
 - Alberta Health Services
 - Graduate students in Exercise Physiology and Medicine
-

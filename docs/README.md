@@ -5,10 +5,12 @@ This directory contains comprehensive documentation for maintaining the rjholash
 ## Documentation Index
 
 1. [Publication Management](publication-management/)
+
    - How to add and synchronize publications between BibTeX and CV
    - Cross-platform instructions for Windows, macOS, and Linux
 
 2. [Website Structure](structure.md)
+
    - Overview of site organization
    - Key directories and their purposes
 

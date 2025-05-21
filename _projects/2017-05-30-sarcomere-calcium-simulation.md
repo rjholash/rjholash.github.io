@@ -12,6 +12,7 @@ Graduate students worked with a spatially realistic 3D model of a half-sarcomere
 ## Computational Approach
 
 Our model uses a stochastic agent-based approach to simulate:
+
 - Calcium ion release from the sarcoplasmic reticulum
 - Diffusion through the sarcomeric space
 - Binding to troponin C and other calcium buffers

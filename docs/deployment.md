@@ -37,6 +37,7 @@ Before pushing changes, it's a good idea to test your website locally.
 ### Initial Setup for Local Testing
 
 1. Install Ruby and Jekyll (if not already installed):
+
    - [Ruby Installation Guide](https://jekyllrb.com/docs/installation/)
    - [Jekyll Installation Guide](https://jekyllrb.com/docs/)
 
@@ -49,11 +50,13 @@ Before pushing changes, it's a good idea to test your website locally.
 ### Running the Site Locally
 
 1. Navigate to your website directory:
+
    ```bash
    cd /path/to/rjholash.github.io
    ```
 
 2. Start the Jekyll server:
+
    ```bash
    bundle exec jekyll serve
    ```

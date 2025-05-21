@@ -99,6 +99,7 @@ If you want a publication to appear only on the Publications page but not in you
 2. Run the sync script again
 
 Example:
+
 ```bibtex
 @inproceedings{conference2023,
     title = {Example Conference Presentation},
@@ -116,10 +117,12 @@ Example:
 - **Script Not Finding Files**: The script tries to automatically locate your website root directory. If it can't find it, it will prompt you to enter the path manually.
 
 - **Missing Dependencies**: If you see errors about missing packages, run:
+
   - Windows: `pip install bibtexparser pyyaml`
   - macOS/Linux: `pip3 install bibtexparser pyyaml`
 
 - **Permission Errors on macOS/Linux**: Make the scripts executable:
+
   ```bash
   chmod +x bibtex_to_cv.py sync_publications.sh
   ```
@@ -150,4 +153,3 @@ If you need to customize how publications appear in your CV, edit the Python scr
 1. Open `bibtex_to_cv.py` in a text editor
 2. Look for the `convert_bibtex_to_cv_format` function
 3. Modify it to change formatting, fields, or sorting logic
-

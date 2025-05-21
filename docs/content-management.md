@@ -146,6 +146,7 @@ Images and other files (PDFs, documents, etc.) are stored in the `assets/` direc
 ### Image Optimization
 
 For better performance, optimize images before adding them:
+
 1. Resize images to an appropriate size (e.g., 1200px max width for regular images)
 2. Use JPEG for photographs and PNG for graphics with transparency
 3. Compress images using tools like TinyPNG or ImageOptim
@@ -194,11 +195,13 @@ The website uses Markdown for content formatting. Here are some common formattin
 
 ```markdown
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
 
 **Bold text**
-*Italic text*
+_Italic text_
 
 [Link text](URL)
 
@@ -214,7 +217,7 @@ The website uses Markdown for content formatting. Here are some common formattin
 
 `Inline code`
 
-```code block```
+`code block`
 ```
 
 For more advanced formatting, consult the [Markdown Guide](https://www.markdownguide.org/).

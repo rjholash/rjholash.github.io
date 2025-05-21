@@ -3,38 +3,38 @@ name: Update Resume from Google Scholar
 on:
   schedule:
     # Run weekly on Sunday at 1:00 AM UTC
-    - cron: '0 1 * * 0'
+    - cron: "0 1 * * 0"
   # Allow manual triggering
   workflow_dispatch:
 
 jobs:
   update-resume:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
-          
+          python-version: "3.10"
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
           pip install --upgrade scholarly==1.7.11 httpx==0.23.0
-          
+
       - name: Run Scholar to JSON converter
         run: |
           python scripts/scholar_to_json.py --json_path "assets/json/resume.json"
-        
+
       - name: Commit and push if changes
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add assets/json/resume.json
-          
+
           # Only commit and push if there are changes
           git diff --staged --quiet || (git commit -m "Auto-update resume.json from Google Scholar" && git push)
