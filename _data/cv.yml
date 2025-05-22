@@ -1,194 +1,194 @@
 - title: General Information
   type: map
   contents:
-  - name: Full Name
-    value: Dr. Robert John Holash
-  - name: Title
-    value: Assistant Professor (Teaching)
-  - name: Department
-    value: Faculty of Kinesiology
-  - name: Institution
-    value: University of Calgary
-  - name: Email
-    value: rjholash@ucalgary.ca
-  - name: Location
-    value: Calgary, Alberta, Canada
+    - name: Full Name
+      value: Dr. Robert John Holash
+    - name: Title
+      value: Assistant Professor (Teaching)
+    - name: Department
+      value: Faculty of Kinesiology
+    - name: Institution
+      value: University of Calgary
+    - name: Email
+      value: rjholash@ucalgary.ca
+    - name: Location
+      value: Calgary, Alberta, Canada
 - title: Education
   type: time_table
   contents:
-  - title: PhD in Muscle Physiology
-    institution: University of Calgary
-    year: 2017
-    description:
-    - 'Three dimensional stochastic computer model of the skeletal muscle half sarcomere:
-      changes in calcium diffusion caused by the myofilament lattice.'
-  - title: MSc in Exercise Physiology
-    institution: University of Calgary
-    year: 2000
-    description:
-    - Validation of single maximal effort tests for power measurement.
-  - title: BPE in Physical Education
-    institution: University of Calgary
-    year: 1993
+    - title: PhD in Muscle Physiology
+      institution: University of Calgary
+      year: 2017
+      description:
+        - 'Three dimensional stochastic computer model of the skeletal muscle half 
+          sarcomere: changes in calcium diffusion caused by the myofilament lattice.'
+    - title: MSc in Exercise Physiology
+      institution: University of Calgary
+      year: 2000
+      description:
+        - Validation of single maximal effort tests for power measurement.
+    - title: BPE in Physical Education
+      institution: University of Calgary
+      year: 1993
 - title: Experience
   type: time_table
   contents:
-  - title: Assistant Professor (Teaching)
-    institution: University of Calgary, Faculty of Kinesiology
-    year: '2020'
-    description:
-    - Lead instructor for undergraduate and graduate courses in muscle physiology,
-      exercise testing, and computational modeling. Active in course development,
-      pedagogical innovation, and undergraduate research mentorship.
-  - title: Instructor / Lab Coordinator / Curriculum Developer
-    institution: University of Calgary, Faculty of Kinesiology
-    year: 2000 - 2020
-    description:
-    - Developed and delivered hands-on laboratory instruction in exercise physiology.
-      Led digital transition and hybrid course design, including flipped and experiential
-      learning environments.
-  - title: Outdoor Education Specialist & High-Performance Coach
-    institution: Various institutions in Alberta
-    year: 1993 - 2000
-    description:
-    - Designed and led outdoor leadership programs with a focus on experiential learning
-      and physical literacy.
+    - title: Assistant Professor (Teaching)
+      institution: University of Calgary, Faculty of Kinesiology
+      year: '2020'
+      description:
+        - Lead instructor for undergraduate and graduate courses in muscle physiology,
+          exercise testing, and computational modeling. Active in course development,
+          pedagogical innovation, and undergraduate research mentorship.
+    - title: Instructor / Lab Coordinator / Curriculum Developer
+      institution: University of Calgary, Faculty of Kinesiology
+      year: 2000 - 2020
+      description:
+        - Developed and delivered hands-on laboratory instruction in exercise physiology.
+          Led digital transition and hybrid course design, including flipped and experiential
+          learning environments.
+    - title: Outdoor Education Specialist & High-Performance Coach
+      institution: Various institutions in Alberta
+      year: 1993 - 2000
+      description:
+        - Designed and led outdoor leadership programs with a focus on experiential learning
+          and physical literacy.
 - title: Papers
   type: list
   contents:
-  - title: A Ramp- Versus Step-Transition to Constant-Work Rate Exercise Decreases
-      Steady-State Oxygen Uptake
-    authors: Gabriele Marinari, Danilo Iannetta, John R. Holash, Robin Trama, Robin
-      Faricier, Alessandro M. Zagatto, Daniel A. Keir, Juan M. Murias
-    journal: Medicine & Science in Sports & Exercise
-    year: 2024
-    doi: 10.1249/MSS.0000000000003372
-  - title: Heavy-intensity priming exercise extends the V̇O2max plateau and increases
-      peak-power output during ramp-incremental exercise
-    authors: Gabriele Marinari, Danilo Iannetta, Robert John Holash, Alessandro M.
-      Zagatto, Daniel A. Keir, Juan M. Murias
-    journal: American Journal of Physiology-Regulatory, Integrative and Comparative
-      Physiology
-    year: 2024
-    doi: 10.1152/ajpregu.00016.2024
-  - title: 'Technological Breakthroughs in Sport: Current Practice and Future Potential
-      of Artificial Intelligence, Virtual Reality, Augmented Reality, and Modern Data
-      Visualization in Performance Analysis'
-    authors: Victor R. A. Cossich, Dave Carlgren, Robert John Holash, Larry Katz
-    journal: Applied Sciences
-    year: 2023
-    doi: 10.3390/app132312965
-  - title: In support of the continued use of the term anaerobic threshold
-    authors: Brian R. MacIntosh, Keenan B. MacDougall, Tara M. Falconer, R. John Holash
-    journal: The Journal of Physiology
-    year: 2021
-    doi: 10.1113/JP281262
-  - title: A stochastic simulation of skeletal muscle calcium transients in a structurally
-      realistic sarcomere model using MCell
-    authors: Robert J Holash, Brian R MacIntosh
-    journal: PLoS Computational Biology
-    year: 2019
-    doi: 10.1371/journal.pcbi.1006712
-  - title: An innovative ergometer to measure neuromuscular fatigue immediately after
-      cycling
-    authors: Douglas Doyle-Baker, John Temesi, Mary E Medysky, Robert J Holash, Guillaume
-      Y Millet
-    journal: Medicine and Science in Sports and Exercise
-    year: 2018
-    doi: 10.1249/MSS.0000000000001427
-  - title: 'A New Test to Measure Neuromuscular Fatigue During and Immediately After
-      Cycling Exercise: A Reliability Study'
-    authors: Douglas Doyle-Baker, John Temesi, Mary E Medysky, Rosie Twomey, Robert
-      J Holash, Nicole Culos-Reed, Guillaume Y Millet
-    journal: Medicine and Science in Sports and Exercise
-    year: 2017
-    doi: 10.1249/mss.0000000000001427
-  - title: Skeletal muscle fatigue–regulation of excitation–contraction coupling to
-      avoid metabolic catastrophe
-    authors: Brian R MacIntosh, Robert J Holash, Jean-Marc Renaud
-    journal: Journal of Cell Science
-    year: 2012
-    doi: 10.1242/jcs.093674
-  - title: A comparison of exer-gaming interfaces for use in rehabilitation programs
-      and research
-    authors: Kazumoto Tanaka, Jim Parker, Graham Baradoy, Dwayne Sheehan, John R Holash,
-      Larry Katz
-    journal: Loading
-    year: 2012
-    doi: ''
-  - title: Feasibility of the two-hour marathon is a burning issue
-    authors: Jared R Fletcher, Shane P Esau, R John Holash, Brian R MacIntosh
-    journal: Journal of Applied Physiology
-    year: 2011
-    doi: ''
-  - title: Procedures for rat in situ skeletal muscle contractile properties
-    authors: Brian R MacIntosh, Shane P Esau, R John Holash, Jared R Fletcher
-    journal: Journal of Visual Experimentation
-    year: 2011
-    doi: ''
+    - title: A Ramp- Versus Step-Transition to Constant-Work Rate Exercise Decreases
+        Steady-State Oxygen Uptake
+      authors: Gabriele Marinari, Danilo Iannetta, John R. Holash, Robin Trama, Robin
+        Faricier, Alessandro M. Zagatto, Daniel A. Keir, Juan M. Murias
+      journal: Medicine & Science in Sports & Exercise
+      year: 2024
+      doi: 10.1249/MSS.0000000000003372
+    - title: Heavy-intensity priming exercise extends the V̇O2max plateau and increases
+        peak-power output during ramp-incremental exercise
+      authors: Gabriele Marinari, Danilo Iannetta, Robert John Holash, Alessandro M.
+        Zagatto, Daniel A. Keir, Juan M. Murias
+      journal: American Journal of Physiology-Regulatory, Integrative and Comparative
+        Physiology
+      year: 2024
+      doi: 10.1152/ajpregu.00016.2024
+    - title: 'Technological Breakthroughs in Sport: Current Practice and Future Potential
+        of Artificial Intelligence, Virtual Reality, Augmented Reality, and Modern Data
+        Visualization in Performance Analysis'
+      authors: Victor R. A. Cossich, Dave Carlgren, Robert John Holash, Larry Katz
+      journal: Applied Sciences
+      year: 2023
+      doi: 10.3390/app132312965
+    - title: In support of the continued use of the term anaerobic threshold
+      authors: Brian R. MacIntosh, Keenan B. MacDougall, Tara M. Falconer, R. John Holash
+      journal: The Journal of Physiology
+      year: 2021
+      doi: 10.1113/JP281262
+    - title: A stochastic simulation of skeletal muscle calcium transients in a structurally
+        realistic sarcomere model using MCell
+      authors: Robert J Holash, Brian R MacIntosh
+      journal: PLoS Computational Biology
+      year: 2019
+      doi: 10.1371/journal.pcbi.1006712
+    - title: An innovative ergometer to measure neuromuscular fatigue immediately after
+        cycling
+      authors: Douglas Doyle-Baker, John Temesi, Mary E Medysky, Robert J Holash, Guillaume
+        Y Millet
+      journal: Medicine and Science in Sports and Exercise
+      year: 2018
+      doi: 10.1249/MSS.0000000000001427
+    - title: 'A New Test to Measure Neuromuscular Fatigue During and Immediately After
+        Cycling Exercise: A Reliability Study'
+      authors: Douglas Doyle-Baker, John Temesi, Mary E Medysky, Rosie Twomey, Robert
+        J Holash, Nicole Culos-Reed, Guillaume Y Millet
+      journal: Medicine and Science in Sports and Exercise
+      year: 2017
+      doi: 10.1249/mss.0000000000001427
+    - title: Skeletal muscle fatigue–regulation of excitation–contraction coupling to
+        avoid metabolic catastrophe
+      authors: Brian R MacIntosh, Robert J Holash, Jean-Marc Renaud
+      journal: Journal of Cell Science
+      year: 2012
+      doi: 10.1242/jcs.093674
+    - title: A comparison of exer-gaming interfaces for use in rehabilitation programs
+        and research
+      authors: Kazumoto Tanaka, Jim Parker, Graham Baradoy, Dwayne Sheehan, John R Holash,
+        Larry Katz
+      journal: Loading
+      year: 2012
+      doi: ''
+    - title: Feasibility of the two-hour marathon is a burning issue
+      authors: Jared R Fletcher, Shane P Esau, R John Holash, Brian R MacIntosh
+      journal: Journal of Applied Physiology
+      year: 2011
+      doi: ''
+    - title: Procedures for rat in situ skeletal muscle contractile properties
+      authors: Brian R MacIntosh, Shane P Esau, R John Holash, Jared R Fletcher
+      journal: Journal of Visual Experimentation
+      year: 2011
+      doi: ''
 - title: Conferences
   type: list
   contents:
-  - title: Investigating active force in muscle fibres from children with cerebral
-      palsy
-    authors: Latif Omerkhil, et al., R. John Holash
-    event: Canadian Society for Biomechanics
-    location: Edmonton, AB
-    year: 2024
-  - title: Active properties of skinned muscle fibres from children with cerebral
-      palsy
-    authors: Venus Joumaa, et al., R. John Holash
-    event: European Muscle Conference
-    location: Florence, Italy
-    year: 2023
-  - title: Increased occupation of sarcomeric calcium buffers reduces required calcium
-      release for similar troponin-c binding of subsequent activation
-    authors: Robert John Holash, Ian Smith, Walter Herzog, Brian R MacIntosh
-    event: European Muscle Conference
-    location: Montpelier, France
-    year: 2017
-  - title: Effect of sarcomere length on calcium diffusion in a 3-D sarcomere model
-    authors: Robert John Holash, Brian R MacIntosh
-    event: European Muscle Conference
-    location: Strasbourg, France
-    year: 2015
-  - title: The importance of structure on calcium release, diffusion, and binding
-      in a spatially realistic 3-D sarcomere model
-    authors: Robert John Holash, Brian R MacIntosh
-    event: Biomedical Basis for Human Performance Across the Lifespan
-    location: Calgary, AB
-    year: 2013
-  - title: 3-Dimensional calcium kinetics; release, diffusion, binding, and uptake
-      in a multicompartmental skeletal muscle half-sarcomere
-    authors: Robert John Holash, Brian R MacIntosh
-    event: Canadian Society of Exercise Physiology Conference (CSEP)
-    location: Regina, Saskatchewan
-    year: 2012
-  - title: Modelling calcium diffusion, binding, and uptake in a spatially realistic
-      3D sarcomere model
-    authors: Robert John Holash, Brian R MacIntosh
-    event: European Muscle Conference
-    location: Rhodes, Greece
-    year: 2012
-  - title: Micro-physiological simulation of calcium diffusion in a 3-dimensional
-      sarcomere model
-    authors: Robert John Holash, Brian R MacIntosh
-    event: CSEP Conference
-    location: Quebec, QC
-    year: 2011
-  - title: Can the second head of myosin bind to the adjacent thin filament?
-    authors: Robert John Holash, Brian R MacIntosh
-    event: Multi-scale Muscle Mechanics Conference
-    location: Woods Hole, MA
-    year: 2009
-  - title: Skeletal muscle filament spacing changes with contraction
-    authors: Robert John Holash, Brian R MacIntosh
-    event: CSEP Conference
-    location: Vancouver, BC
-    year: 2009
-  - title: Modelling calcium release in a simplified two-dimensional skeletal muscle
-      model using the agent-based system NetLogo
-    authors: Robert John Holash, Brian R MacIntosh
-    event: CSEP Conference
-    location: Banff, Alberta
-    year: 2008
+    - title: Investigating active force in muscle fibres from children with cerebral
+        palsy
+      authors: Latif Omerkhil, et al., R. John Holash
+      event: Canadian Society for Biomechanics
+      location: Edmonton, AB
+      year: 2024
+    - title: Active properties of skinned muscle fibres from children with cerebral
+        palsy
+      authors: Venus Joumaa, et al., R. John Holash
+      event: European Muscle Conference
+      location: Florence, Italy
+      year: 2023
+    - title: Increased occupation of sarcomeric calcium buffers reduces required calcium
+        release for similar troponin-c binding of subsequent activation
+      authors: Robert John Holash, Ian Smith, Walter Herzog, Brian R MacIntosh
+      event: European Muscle Conference
+      location: Montpelier, France
+      year: 2017
+    - title: Effect of sarcomere length on calcium diffusion in a 3-D sarcomere model
+      authors: Robert John Holash, Brian R MacIntosh
+      event: European Muscle Conference
+      location: Strasbourg, France
+      year: 2015
+    - title: The importance of structure on calcium release, diffusion, and binding
+        in a spatially realistic 3-D sarcomere model
+      authors: Robert John Holash, Brian R MacIntosh
+      event: Biomedical Basis for Human Performance Across the Lifespan
+      location: Calgary, AB
+      year: 2013
+    - title: 3-Dimensional calcium kinetics; release, diffusion, binding, and uptake
+        in a multicompartmental skeletal muscle half-sarcomere
+      authors: Robert John Holash, Brian R MacIntosh
+      event: Canadian Society of Exercise Physiology Conference (CSEP)
+      location: Regina, Saskatchewan
+      year: 2012
+    - title: Modelling calcium diffusion, binding, and uptake in a spatially realistic
+        3D sarcomere model
+      authors: Robert John Holash, Brian R MacIntosh
+      event: European Muscle Conference
+      location: Rhodes, Greece
+      year: 2012
+    - title: Micro-physiological simulation of calcium diffusion in a 3-dimensional
+        sarcomere model
+      authors: Robert John Holash, Brian R MacIntosh
+      event: CSEP Conference
+      location: Quebec, QC
+      year: 2011
+    - title: Can the second head of myosin bind to the adjacent thin filament?
+      authors: Robert John Holash, Brian R MacIntosh
+      event: Multi-scale Muscle Mechanics Conference
+      location: Woods Hole, MA
+      year: 2009
+    - title: Skeletal muscle filament spacing changes with contraction
+      authors: Robert John Holash, Brian R MacIntosh
+      event: CSEP Conference
+      location: Vancouver, BC
+      year: 2009
+    - title: Modelling calcium release in a simplified two-dimensional skeletal muscle
+        model using the agent-based system NetLogo
+      authors: Robert John Holash, Brian R MacIntosh
+      event: CSEP Conference
+      location: Banff, Alberta
+      year: 2008
