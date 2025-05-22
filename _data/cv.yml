@@ -13,6 +13,7 @@
       value: rjholash@ucalgary.ca
     - name: Location
       value: Calgary, Alberta, Canada
+
 - title: Education
   type: time_table
   contents:
@@ -30,6 +31,7 @@
     - title: BPE in Physical Education
       institution: University of Calgary
       year: 1993
+
 - title: Experience
   type: time_table
   contents:
@@ -40,6 +42,7 @@
         - Lead instructor for undergraduate and graduate courses in muscle physiology,
           exercise testing, and computational modeling. Active in course development,
           pedagogical innovation, and undergraduate research mentorship.
+
     - title: Instructor / Lab Coordinator / Curriculum Developer
       institution: University of Calgary, Faculty of Kinesiology
       year: 2000 - 2020
@@ -47,12 +50,14 @@
         - Developed and delivered hands-on laboratory instruction in exercise physiology.
           Led digital transition and hybrid course design, including flipped and experiential
           learning environments.
+
     - title: Outdoor Education Specialist & High-Performance Coach
       institution: Various institutions in Alberta
       year: 1993 - 2000
       description:
         - Designed and led outdoor leadership programs with a focus on experiential learning
           and physical literacy.
+
 - title: Papers
   type: list
   contents:
@@ -126,6 +131,7 @@
       journal: Journal of Visual Experimentation
       year: 2011
       doi: ''
+
 - title: Conferences
   type: list
   contents:
