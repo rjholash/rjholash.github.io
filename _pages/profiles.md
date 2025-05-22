@@ -127,7 +127,7 @@ At the Digital Athlete Lab, we're not just studying human movement – we're rev
 
 The Digital Athlete Lab provides cutting-edge research opportunities for talented undergraduate students, helping them develop hands-on skills in laboratory techniques, data analysis, and scientific inquiry.
 
-### Current Undergraduate Projects (2023-2024)
+### Undergraduate Projects (2023-2024)
 
 <div class="row mt-3">
   <div class="col-md-6">

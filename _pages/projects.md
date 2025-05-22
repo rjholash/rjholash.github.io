@@ -20,12 +20,15 @@ horizontal: false
   {% assign categorized_projects = site.projects | where_exp: "item", "item.categories contains category" %}
   {% assign sorted_projects = categorized_projects | sort: "date" | reverse %}
 
-  {% if sorted_projects == empty %}
-    <p>No projects found in this category.</p>
-  {% endif %}
+{% if sorted_projects == empty %}
+
+<p>No projects found in this category.</p>
+{% endif %}
 
   <!-- Generate cards for each project -->
-  {% if page.horizontal %}
+
+{% if page.horizontal %}
+
   <div class="container">
     <div class="row row-cols-2">
     {% for project in sorted_projects %}
@@ -49,11 +52,14 @@ horizontal: false
 {% assign sorted_projects = site.projects | sort: "date" | reverse %}
 
 {% if sorted_projects == empty %}
+
   <p>No projects to display at this time.</p>
 {% endif %}
 
   <!-- Generate cards for each project -->
+
 {% if page.horizontal %}
+
   <div class="container">
     <div class="row row-cols-2">
     {% for project in sorted_projects %}
