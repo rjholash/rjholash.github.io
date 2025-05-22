@@ -16,6 +16,7 @@ This tool automatically updates your website's publication list by scraping your
 If you want to run the update manually, you can:
 
 1. Install the required Python packages:
+
    ```bash
    pip install scholarly==1.7.11 httpx==0.23.0 requests beautifulsoup4
    ```
@@ -32,6 +33,7 @@ Your Google Scholar ID (`Qx4U24oAAAAJ`) is already configured in the script.
 The included GitHub Actions workflow (`update-scholar.yml`) will run automatically every Sunday at 1:00 AM UTC to check for new publications and update your resume.json file.
 
 You can also trigger a manual update by:
+
 1. Going to your GitHub repository
 2. Clicking on the "Actions" tab
 3. Selecting the "Update Resume from Google Scholar" workflow
@@ -46,6 +48,7 @@ You can also trigger a manual update by:
 ## Technical Details
 
 The `scholar_to_json.py` script:
+
 1. Uses the `scholarly` Python library to access Google Scholar
 2. Retrieves your profile and all associated publications
 3. Formats each publication to match the resume.json schema
