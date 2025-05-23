@@ -31,13 +31,14 @@
     - title: BPE in Physical Education
       institution: University of Calgary
       year: 1993
+      description:
 
 - title: Experience
   type: time_table
   contents:
     - title: Assistant Professor (Teaching)
       institution: University of Calgary, Faculty of Kinesiology
-      year: '2020'
+      year: 2020 - present
       description:
         - Lead instructor for undergraduate and graduate courses in muscle physiology,
           exercise testing, and computational modeling. Active in course development,
@@ -120,16 +121,6 @@
         Larry Katz
       journal: Loading
       year: 2012
-      doi: ''
-    - title: Feasibility of the two-hour marathon is a burning issue
-      authors: Jared R Fletcher, Shane P Esau, R John Holash, Brian R MacIntosh
-      journal: Journal of Applied Physiology
-      year: 2011
-      doi: ''
-    - title: Procedures for rat in situ skeletal muscle contractile properties
-      authors: Brian R MacIntosh, Shane P Esau, R John Holash, Jared R Fletcher
-      journal: Journal of Visual Experimentation
-      year: 2011
       doi: ''
 
 - title: Conferences
