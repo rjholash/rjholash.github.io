@@ -61,7 +61,7 @@ Before pushing changes, it's a good idea to test your website locally.
    bundle exec jekyll serve
    ```
 
-3. View your website at: http://localhost:4000
+3. View your website at: `http://localhost:4000`
 
 4. Press Ctrl+C to stop the server when finished
 
