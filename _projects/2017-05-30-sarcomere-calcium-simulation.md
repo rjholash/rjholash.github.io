@@ -20,7 +20,7 @@ Our model uses a stochastic agent-based approach to simulate:
 
 ## Technical Implementation
 
-The simulation is built using MCell, a Monte Carlo simulator for cellular microphysiology, and analyzed with custom Python scripts. The 3D geometry of the sarcomere is reconstructed from electron microscopy data.
+The simulation is built using MCell, a Monte Carlo simulator for cellular microphysiology, and analysed with custom Python scripts. The 3D geometry of the sarcomere is reconstructed from electron microscopy data.
 
 ## Research Impact
 

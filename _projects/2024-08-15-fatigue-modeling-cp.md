@@ -8,7 +8,7 @@ category: physiology
 related_publications: joumaa2023active
 ---
 
-This graduate research project analyzes the mechanical properties and fatigue response of single muscle fibers collected from children with cerebral palsy. The goal is to understand muscle contractile deficits and recovery using in vitro testing methods.
+This graduate research project analyses the mechanical properties and fatigue response of single muscle fibers collected from children with cerebral palsy. The goal is to understand muscle contractile deficits and recovery using in vitro testing methods.
 
 ## Project Overview
 
