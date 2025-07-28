@@ -3,6 +3,7 @@ title: "Major Research Grants Support Digital Athlete Lab Innovation"
 date: 2024-10-01
 categories: [grants, research, collaboration]
 tags: [McCaig-Institute, SOTL, grants, activity-monitoring, educational-technology]
+layout: post
 ---
 
 The Digital Athlete Lab has secured significant research funding through two major grants that will advance both research capabilities and educational innovation in exercise physiology.

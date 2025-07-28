@@ -2,6 +2,7 @@
 title: "Dr. Holash Featured on 'Run to the Top' Podcast: Exploring AI's Impact on Running Performance"
 date: 2025-01-15
 categories: [media, research, technology]
+layout: post
 tags: [AI, running, performance, podcast]
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: "New NSERC and PURE Awards Support Student Research in Muscle Physiology"
-date: 2025-01-08
+date: 2025-04-08
 categories: [awards, student-research, mentoring]
+layout: post
 tags: [NSERC, PURE, undergraduate-research, cerebral-palsy, cardiac-muscle]
 ---
 
-The Digital Athlete Lab is proud to announce that two exceptional undergraduate students have received prestigious research awards to pursue cutting-edge muscle physiology research projects.
+I am proud to announce that two exceptional undergraduate students have received prestigious research awards to pursue cutting-edge muscle physiology research projects, and with the gractious collaboration with Dr. Walter Herzog's lab, will be working on those projects this summer.
 
 ## NSERC Award: Sunnie Vuong
 

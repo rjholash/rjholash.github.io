@@ -3,6 +3,7 @@ title: "Cold Water Research Drives National Media Coverage Throughout 2024"
 date: 2024-12-01
 categories: [media, research, cold-water-immersion]
 tags: [cold-plunge, cbc, global-news, research-translation]
+layout: post
 ---
 
 Dr. John Holash's research on cold water immersion gained significant national and international media attention throughout 2024, with appearances across multiple major news outlets examining the science behind the popular "cold plunge" trend.

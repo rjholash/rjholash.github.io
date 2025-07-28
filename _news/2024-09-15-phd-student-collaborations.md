@@ -3,6 +3,7 @@ title: "PhD Students Advance Cutting-Edge Exercise Physiology Research"
 date: 2024-09-15
 categories: [graduate-students, research, collaboration]
 tags: [PhD, cycling-performance, heart-rate-analysis, fatigue-modeling]
+layout: post
 ---
 
 The Digital Athlete Lab continues its strong tradition of graduate student mentorship through ongoing collaborations with two exceptional PhD students pursuing innovative research in exercise physiology and performance analysis.

@@ -1,8 +1,9 @@
 ---
 title: "Current Honours Students Advance Diverse Research Portfolio"
-date: 2024-11-15
+date: 2024-09-15
 categories: [student-research, mentoring, honours]
 tags: [honours-research, cold-water-immersion, wearable-technology, cardiovascular-health]
+layout: post
 ---
 
 The Digital Athlete Lab currently mentors two exceptional Honours students pursuing diverse research projects that exemplify the lab's interdisciplinary approach to exercise physiology and technology integration.

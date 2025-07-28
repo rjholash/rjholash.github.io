@@ -3,6 +3,7 @@ title: "Dr. Holash Discusses Technology's Impact on Athletic Performance"
 date: 2024-12-05
 categories: [media, technology, sports-science]
 tags: [sports-technology, performance, podcast, australia]
+layout: post
 ---
 
 Dr. John Holash was featured as an expert guest on **Future Tense**, a prominent technology podcast from ABC Australia, discussing how emerging technologies are revolutionizing sport performance and raising new questions about competitive fairness.
