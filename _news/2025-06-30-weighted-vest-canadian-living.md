@@ -1,6 +1,6 @@
 ---
 title: "Canadian Living Features Dr. Holash's Research on Weighted Vest Training"
-date: 2025-01-10
+date: 2025-06-30
 categories: [media, research, fitness]
 layout: post
 tags: [weighted-vest, walking, exercise-physiology, public-health]

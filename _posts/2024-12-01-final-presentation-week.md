@@ -1,6 +1,7 @@
 ---
 title: "KNES375 Final Presentation Week Showcases Student Testing Batteries"
-date: 2024-04-22
+date: 2024-12-01
+
 categories: [teaching, assessment]
 layout: post
 ---

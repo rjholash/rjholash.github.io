@@ -1,6 +1,6 @@
 ---
 title: "MELT Study Launch: Multimedia for Enhanced Learning"
-date: 2023-06-15
+date: 2024-11-15
 categories: [research, pedagogy]
 layout: post
 ---

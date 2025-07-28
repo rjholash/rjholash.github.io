@@ -5,4 +5,4 @@ categories: [teaching, course-design]
 layout: post
 ---
 
-Courses KNES213 and KNES381 now use flipped-classroom design and cognitive maps. This supports critical thinking, scaffolds learning, and builds student autonomy.
+Courses KNES213 and KNES381 now use flipped-classroom design and cognitive maps. We have also started to incorperate the online teaching tool "Perussal" this term to support critical thinking, scaffolds learning, and builds student autonomy.
