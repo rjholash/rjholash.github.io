@@ -25,6 +25,44 @@ Comprehensive documentation for maintaining this website is available in the [do
 - [Publication Management](docs/publication-management/) - Cross-platform tools for publication updates
 - [Deployment Guide](docs/deployment.md) - How to test and deploy the website
 
+### 📄 CV Management System
+
+The CV page is managed through a two-file system that separates content from presentation:
+
+**Main Files:**
+- `_pages/cv.md` - CV page template with layout settings and metadata
+- `_data/cv.yml` - Structured YAML file containing all CV content
+
+**How It Works:**
+The CV page uses Jekyll's data file system where the `cv.md` template references the `layout: cv` and the actual content is dynamically loaded from `cv.yml`. This approach provides several advantages:
+
+- **Easy Content Updates**: Modify CV information in the structured YAML format without touching HTML/Markdown
+- **Consistent Formatting**: The layout template ensures uniform presentation across all CV sections
+- **Version Control**: Track changes to CV content through git history
+- **Maintainability**: Separate content from presentation logic
+
+**To Update Your CV:**
+1. **Content Changes**: Edit `_data/cv.yml` - add/modify sections like Education, Experience, Publications
+2. **Layout Changes**: Modify `_layouts/cv.html` (if it exists) or page settings in `_pages/cv.md`
+3. **PDF Version**: Update the `cv_pdf` field in `_pages/cv.md` to reference your latest PDF file
+
+**YAML Structure Example:**
+```yaml
+- title: Section Name
+  type: time_table  # or 'map' for key-value pairs
+  contents:
+    - title: Position/Degree
+      institution: Institution Name
+      year: Date Range
+      description:
+        - Bullet point description
+        - Additional details
+```
+
+**Backup Files:**
+- `cv_bak.yml` - Backup version of CV data
+- `_data/cv_old.yml` - Previous version for reference
+
 ## ⚙️ Technical Details
 
 This website is built using:

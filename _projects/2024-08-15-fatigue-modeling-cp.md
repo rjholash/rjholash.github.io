@@ -34,7 +34,7 @@ Our work on this project has been presented at several conferences:
       <div class="card-body">
         <h5 class="card-title">EMC Conference Presentation</h5>
         <p class="card-text">Active properties of skinned muscle fibres from children with cerebral palsy. European Muscle Conference, Florence, Italy (2023)</p>
-        <a href="https://doi.org/10.1007/s10974-023-09651-7" class="btn btn-primary">View Abstract</a>
+        <a href="https://link.springer.com/article/10.1007/s10974-024-09666-8" class="btn btn-primary">View Abstract</a>
       </div>
     </div>
   </div>

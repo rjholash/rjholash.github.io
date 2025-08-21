@@ -122,13 +122,13 @@
       year: 2024
       description:
         - 'Project: "ACTIVATION: Activity Capture To Investigate Voluntary Activity in Oncology and Normal populations" (with Dr. Joel Kendal)'
-        - Grant Value: $20,000
+        - 'Grant Value: $20,000'
     - title: Science of Teaching and Learning (SOTL) Grant
       institution: University of Calgary
       year: 2024
       description:
         - 'Project: "Evaluating Enhanced Learning Outcomes: Developing a Multimedia Library with Educational Videos and Interactive Tools for Laboratory Training" (with Dr. Venus Joumaa)'
-        - Grant Value: $40,000
+        - 'Grant Value: $40,000'
     - title: Faculty of Kinesiology COVID-Outstanding Achievement Award
       institution: University of Calgary
       year: 2023
@@ -139,7 +139,7 @@
       year: 2021
       description:
         - 'Project: Redevelopment of Lab component of Kinesiology 375 for student inquiry-driven learning'
-        - Grant Value: $10,000
+        - 'Grant Value: $10,000'
     - title: Young Investigator Award
       institution: University of Calgary
       year: 2013
@@ -159,29 +159,48 @@
       institution: Faculty of Kinesiology
       year: 2019 - present
       description:
-        - 'PhD Keanen McDougal: "Alterations in fatigue, efficiency, and pedaling mechanics during incremental and constant-load high-intensity cycling"'
+        - 'MSc. Alex Iwasky (Faculty of Medicine): "ACTIVATION: MSK Oncology| Mobility and Patient Reported Outcomes (PRO)"'
         - 'PhD Jim Griffiths: "Heart Rate Novel Methods of Detection"'
     - title: Recent Graduate Completions
       institution: Faculty of Kinesiology
       year: 2022 - 2024
       description:
+        - 'PhD Keanen McDougal: "Alterations in fatigue, efficiency, and pedaling mechanics during incremental and constant-load high-intensity cycling"'
         - 'PhD Gabriele Marinari: "New approaches to characterize the V̇O₂ slow component and its physiological mechanisms"'
         - 'MSc Brynn Lindstrom: "Does critical power underestimate thresholds in experienced exercisers"'
         - 'MSc Timi Ajayai: "Detrended fluctuation analysis of heart rate data during constant intensity exercise"'
         - 'MSc Mary Mackie: "The Step-Ramp-Step Protocol: Evaluating the Effects of a Smaller First Step Amplitude"'
-    - title: Undergraduate Research Awards (NSERC)
+    - title: Undergraduate Research Awards (NSERC/PURE)
       institution: University of Calgary
-      year: 2023 - 2024
+      year: 2022 - 2025
       description:
-        - '2024: Arianna Hu - "Investigating effects of flash freezing on active force production of skinned muscle fibres" ($6,000)'
-        - '2023: Birtej Mangat - "Investigating Mechanical Properties of Cardiac Muscle in Obese Rats" ($6,000)'
-    - title: Honours and Self-Directed Studies Students
+        - '2025: NSERC Award - Sunnie Vuong - "Structural Characteristics of Two Muscles from Children with Cerebral Palsy" ($6,000)'
+        - '2025: PURE Award - Abdul-samad Ahmend - "Structural properties and mitochondrial function of cardiac muscle in response to a high-fat and high-sucrose diet in female rats" ($7,000)'
+        - '2024: NSERC Award - Arianna Hu - "Investigating effects of flash freezing on active force production of skinned muscle fibres" ($6,000)'
+        - '2023: NSERC Award - Birtej Mangat - "Investigating Mechanical Properties of Cardiac Muscle in Obese Rats" ($6,000)'
+        - '2022: PURE Studentship - Gavin Thomas - "Active force in skeletal muscle fibres from children with cerebral palsy" ($7,000)'
+        - '2022: Faculty Research Funding - Thomas Manktelow - "Objective Analysis of Double-Pole Timing in X-Country Skiing" ($7,000)'
+    - title: Current Undergraduate Research Students
+      institution: University of Calgary
+      year: 2024 - 2025
+      description:
+        - 'Honours 590 - Dana Litvak: "Cold Water Immersion for Exercise-Induced Muscle Damage Recovery: A Systematized Umbrella Review"'
+        - 'Honours 590 - Sia Gaur: "Assessing the Impact of Exercise Duration, Intensity, and Modality on Cardiovascular Health Outcomes Using Wearable Technology: A Correlational Analysis"'
+    - title: Former Undergraduate Research Students
       institution: University of Calgary
       year: 2020 - 2024
       description:
-        - 'KNES 590 Honours: Conner Hass (Palmer cooling), Thomas Manktelow (X-country skiing efficiency)'
-        - 'KNES 490 Honours: Allysan Lui (Aerobic power in dancers), Chantel Vogel (VR fitness motivation)'
-        - 'KNES 466 Advanced Projects: Ashley Matesic (Polling cadence in x-country skiing)'
+        - '2024: Summer Internship - Latif Oerkhil: "Investigating active force and sarcomeric protein content in gracilis muscle of children with cerebral palsy"'
+        - '2023-2024: Honours 590 - Conner Hass: "Palmer cooling and the effect on metabolic work production on exercise performance"'
+        - '2023-2024: Honours 590 - Thomas Manktelow: "X-country skiing double poling efficiency"'
+        - '2023: Summer Internship - Latif Omerkhil: "Investigating active force in muscle fibres from children with cerebral palsy"'
+        - '2022-2023: KNES 466 - Ashley Matesic: "Relative Hip Drop Timing at Different Speeds and its Relationship to Performance and Force Production in Cross-Country Skiing Double Poling"'
+        - '2021-2022: KNES 490 Honours - Allysan Lui: "Assessment of Aerobic power in Collegiate Contemporary Dance Using a High-Intensity Dance Performance Fitness Test (DAFT2)"'
+        - "2021-2022: KNES 490 Honours - Chantal Vogel: Effect of Zwift's Virtual Setting on Individual Outcomes and Performance in Comparison to Traditional Stationary Cycling"
+        - '2021-2022: KNES 490 Honours - Andreas Cordido: "Exercise Thresholds: Functional Threshold Power on an Exergaming Platform versus Power Output at the Respiratory Compensation Point"'
+        - '2021: Biomedical Engineering - Maleeka Malik: "Investigating the changes in titin isoforms and concentration and sarcomere organization in skeletal muscles of obese rats"'
+        - '2020-2021: KNES 490 Honours - Ashley Lorenz: "Investigating Physical Activity Intensity of Virtual Reality Exergame in Recreationally Active Young Adults"'
+        - '2020-2021: KNES 604 - Tara McNeil: "Physiology of Swimming"'
 
 - title: Student Awards and Recognition
   type: time_table
@@ -201,6 +220,54 @@
       year: 2021
       description:
         - 'Best Presentation Award: Maleeka Malik - "Titin isoform changes in an obesity feeding rat model"'
+
+- title: Teaching and Recognition Awards
+  type: time_table
+  contents:
+    - title: Faculty of Kinesiology COVID Outstanding Achievement Award
+      institution: University of Calgary
+      year: 2023
+      description:
+        - Recognition for exceptional contributions during the COVID-19 pandemic period
+    - title: Young Investigator Award
+      institution: University of Calgary
+      year: 2013
+      description:
+        - 'Best Presentation: "The importance of structure on calcium release, diffusion, and binding in a spatially realistic 3-D Sarcomere Model" - Bio-medical Basis for Human Performance Across the Lifespan'
+    - title: Outstanding Leadership (Staff) Award
+      institution: Roger Jackson Centre for Health and Wellness
+      year: 2013
+      description:
+        - University of Calgary recognition for exceptional leadership contributions
+
+- title: Historical Awards and Recognition
+  type: time_table
+  contents:
+    - title: Alberta Sports Research Grant
+      institution: Government of Alberta
+      year: 1998
+      description:
+        - Development of electronic bike ergometer for sports performance research
+    - title: Alberta Parks and Recreation Grant
+      institution: University of Calgary
+      year: 1996
+      description:
+        - Measuring muscle tone in children with Downs Syndrome
+    - title: You Make a Difference Award
+      institution: Canadian National Institute for the Blind
+      year: 1996
+      description:
+        - Recognition for blind bowling program development and leadership
+    - title: Clean World Award
+      institution: International Association for Environmental Urban Living
+      year: 1994
+      description:
+        - For accomplishments running the Calgary River Clean-up 1994
+    - title: Mayor's Environmental Stewardship Award
+      institution: City of Calgary
+      year: 1993
+      description:
+        - Presented by Mayor Al Duer for organizing and running the Calgary River Clean-up 1993
 
 - title: Media Appearances and Public Engagement
   type: time_table
