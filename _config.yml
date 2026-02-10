@@ -276,8 +276,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: ["student-work", "NSERC", "cerebral-palsy", "muscle-physiology", "MELT", "multimedia"] # curated tags shown on the blog page
+display_categories: ["research", "students", "teaching", "mentorship"] # curated categories shown on the blog page
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
