@@ -1,37 +1,41 @@
 ---
 layout: page
-title: "MELT Study – Multimedia for Enhanced Learning and Training"
-description: Investigating the impact of multimedia instructional tools on student learning in kinesiology laboratory courses
+title: "MELT: Multimedia-Experiential Learning & Teaching in Kinesiology"
+description: Pairing high-fidelity multimedia with hands-on experiential practice to help students master foundational assessment skills in kinesiology
 date: 2023-06-20
-importance: 2
-category: education
+importance: 1
+category: teaching-innovation
 ---
 
-The MELT study investigates the impact of pre-lab instructional videos and interactive learning tools on student preparation and learning outcomes in physiology courses. Supported by a $40,000 SOTL grant, this project aims to enhance active, applied learning across the kinesiology curriculum.
+MELT is an applied teaching and learning initiative led by Dr. John Holash that pairs high-fidelity multimedia with hands-on, experiential practice to help students master foundational assessment skills in kinesiology. Building on the lab-rich environment of KNES 375: Tests & Measurements in Kinesiology, MELT develops short, tightly focused demonstration videos and practice resources that students can use before, during, and after lab to sharpen technique and decision-making.
 
-## Project Overview
+## Closing the Gap Between Knowing and Doing
 
-The MELT (Multimedia for Enhanced Learning and Training) research program examines how high-fidelity demonstration videos and interactive modules affect student confidence, skill acquisition, and performance in applied kinesiology settings. The study uses customized SALG questionnaires to assess perceived learning and preparation time across different student cohorts.
+At its heart, MELT is about closing the gap between knowing and doing. Video modules model best-practice procedures — such as cardiovascular measures, field tests, and anthropometric techniques — while lab sessions provide guided repetition and immediate feedback. Students learn not only what to do, but why each step matters in producing valid, reliable results.
+
+## Evidence-Informed Evaluation
+
+To ensure the work truly improves learning, MELT integrates evidence-informed evaluation. Students complete a brief, ethics-approved survey (using SALG-style prompts) that captures confidence, perceived skill growth, and the usefulness of the media resources in real time. These data, collected through tools familiar to our students (D2L or Qualtrics), help the teaching team calibrate content, sequencing, and support — making the next iteration even better.
+
+## What Makes MELT Different
+
+- **Precision media, purposeful practice.** Each video is designed to remove ambiguity around technique — so lab time can focus on higher-order coaching and troubleshooting.
+- **Iterative, data-driven improvement.** Short pulse surveys feed directly into course improvements, aligning resources with what students say they need most.
+- **Student co-creation.** Honours students and teaching assistants contribute filming, editing, and usability testing, gaining meaningful scholarly-teaching experience along the way.
 
 ## Current Development: KNES 375
 
-Honours student **Andrew Filewich** is leading the development of a comprehensive suite of multimedia resources for KNES 375: Tests and Measurements in Kinesiology. His work covers essential practical skills including:
+Honours student **Andrew Filewich** is leading the development of a comprehensive suite of multimedia resources for KNES 375. His work covers essential practical skills including:
 
 - Blood pressure and heart-rate assessment
 - mCAFT (modified Canadian Aerobic Fitness Test) testing
 - Advanced anthropometric methods, including Jackson-Pollock skinfold procedures
 
-These resources are created through meticulous planning, careful filming, and iterative refinement, designed to make technical content more accessible and engaging for undergraduate learners.
+Andrew's contribution extends beyond video creation to shaping the course's experiential learning structure — coordinating survey design, supporting ethical review processes, and aligning multimedia tools with course learning outcomes.
 
-## Beyond Video Creation
+## Impact So Far
 
-Andrew's contribution extends to shaping the course's experiential learning structure — coordinating survey design, supporting ethical review processes, and aligning multimedia tools with course learning outcomes. This integrated approach ensures that the multimedia resources are not simply add-ons but are embedded into the pedagogical framework of the course.
-
-## Research Questions
-
-1. How do high-fidelity demonstration videos impact student confidence in performing physiological assessments?
-2. Does access to multimedia learning modules improve skill acquisition and performance outcomes?
-3. What is the relationship between pre-lab video engagement and student preparation time?
+MELT resources are now embedded across KNES 375 learning cycles, supporting students as they prepare for labs, practice independently, and reflect on performance. Early feedback indicates that multimedia-guided rehearsal helps students approach lab with greater clarity and confidence, while instructors gain time for coaching the nuances that elevate measurement quality.
 
 ## Research Team
 
