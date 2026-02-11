@@ -32,6 +32,12 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
+      - name: Install ImageMagick 🖼️
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick libwebp-dev webp
+          sudo sed -i 's/rights="none" pattern="PDF"/rights="read|write" pattern="PDF"/' /etc/ImageMagick-6/policy.xml || true
+          sudo sed -i '/<\/policymap>/i <policy domain="coder" rights="read|write" pattern="WEBP" \/>' /etc/ImageMagick-6/policy.xml || true
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
