@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git push:*)",
+      "Bash(tlmgr repository set:*)",
+      "Bash(tlmgr install:*)",
+      "Bash(bash:*)",
+      "Bash(xelatex:*)",
+      "Bash(grep:*)",
+      "Bash(gh repo view:*)",
+      "WebFetch(domain:github-readme-stats.vercel.app)",
+      "Bash(gh repo fork:*)",
+      "WebFetch(domain:github-readme-stats-4bl6tueh8-rjholashs-projects.vercel.app)",
+      "WebFetch(domain:github-readme-stats-rjholashs-projects.vercel.app)",
+      "WebFetch(domain:github-readme-stats-jade-two-17.vercel.app)",
+      "Bash(curl:*)",
+      "WebSearch",
+      "WebFetch(domain:unsplash.com)"
+    ]
+  }
+}
