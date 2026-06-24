@@ -1,14 +1,14 @@
 ---
-title: "Current Honours Students Advance Diverse Research Portfolio"
+title: "Honours Students Advanced Diverse Research Portfolio"
 date: 2024-09-15
 categories: [student-research, mentoring, honours]
 tags: [honours-research, cold-water-immersion, wearable-technology, cardiovascular-health]
 layout: post
 ---
 
-The Digital Athlete Lab currently mentors two exceptional Honours students pursuing diverse research projects that exemplify the lab's interdisciplinary approach to exercise physiology and technology integration.
+The Digital Athlete Lab mentored two exceptional Honours students through diverse research projects that exemplify the lab's interdisciplinary approach to exercise physiology and technology integration.
 
-## Current Honours Research Projects
+## Honours Research Projects
 
 ### Dana Litvak - KNES 590 Honours
 **Research Focus:** "Cold Water Immersion for Exercise-Induced Muscle Damage Recovery: A Systematized Umbrella Review"
@@ -32,4 +32,4 @@ These projects demonstrate the lab's commitment to student-driven research that 
 
 These Honours projects complement the lab's ongoing graduate student collaborations and NSERC-funded undergraduate research, creating a comprehensive research training environment. The diversity of research topics—from systematic reviews to wearable technology applications—reflects the broad scope of modern exercise physiology research.
 
-Both students are scheduled to present their findings at the Faculty of Kinesiology's annual research showcase, contributing to the growing body of evidence-based knowledge in exercise science and technology applications.
+Both students completed their honours projects and moved on from the lab, contributing to the growing body of evidence-based knowledge in exercise science and technology applications.

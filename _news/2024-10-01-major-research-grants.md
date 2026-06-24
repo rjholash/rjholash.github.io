@@ -10,7 +10,7 @@ The Digital Athlete Lab has secured significant research funding through two maj
 
 ## McCaig Institute Spark Grant: $20,000
 
-Dr. Holash has been awarded a **$20,000 Spark Grant** from the McCaig Institute for Bone and Joint Health for the project **"ACTIVATION: Activity Capture To Investigate Voluntary Activity in Oncology and Normal populations."** This collaborative research with **Dr. Joel Kendal** will investigate how activity monitoring technologies can provide insights into movement patterns and recovery in both healthy individuals and oncology patients.
+Dr. Holash has been awarded a **$20,000 Spark Grant** from the McCaig Institute for Bone and Joint Health for the project **"ACTIVATION: Activity Capture To Investigate Voluntary Activity in Oncology and Normal populations."** This collaborative research with **Dr. Joe Kenal** will investigate how activity monitoring technologies can provide insights into movement patterns and recovery in both healthy individuals and oncology patients.
 
 The ACTIVATION project represents a significant expansion of the lab's research into clinical applications of exercise physiology, bridging the gap between fundamental muscle physiology research and real-world health outcomes. This work will contribute to our understanding of how activity levels and movement patterns influence recovery and health across different populations.
 

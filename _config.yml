@@ -8,16 +8,14 @@ middle_name: John
 last_name: Holash
 email: rjholash@ucalgary.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Exploring the frontiers of muscle physiology and digital education.
+  Muscle physiology, exercise science, digital learning, and student research from the University of Calgary.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: muscle physiology, exercise physiology, kinesiology, Digital Athlete Lab, University of Calgary, student research, digital learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://rjholash.github.io # the base hostname & protocol for your site
+url: https://digitalathletelab.com # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -104,7 +102,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  For student research opportunities, collaborations, or media inquiries, email rjholash@ucalgary.ca.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -151,15 +149,14 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  []
 
 # -----------------------------------------------------------------------------
 # Collections

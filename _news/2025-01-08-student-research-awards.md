@@ -6,15 +6,15 @@ layout: post
 tags: [NSERC, PURE, undergraduate-research, cerebral-palsy, cardiac-muscle]
 ---
 
-I am proud to announce that two exceptional undergraduate students have received prestigious research awards to pursue cutting-edge muscle physiology research projects, and with the gractious collaboration with Dr. Walter Herzog's lab, will be working on those projects this summer.
+I am proud to announce that two exceptional undergraduate students have received prestigious research awards to pursue muscle physiology research projects. With the gracious collaboration of Dr. Walter Herzog's lab, they will be working on these projects this summer.
 
 ## NSERC Award: Sunnie Vuong
 
 **Sunnie Vuong** has been awarded a **prestigious NSERC Undergraduate Student Research Award** to investigate "Structural Characteristics of Two Muscles from Children with Cerebral Palsy." This research builds upon the lab's ongoing work understanding muscle contractile deficits in pediatric populations and represents a significant opportunity to advance our knowledge of muscle adaptation in neurological conditions.
 
-## PURE Award: Abdul-samad Ahmend
+## PURE Award: Abdul-Samad Ahmed
 
-**Abdul-samad Ahmend** received a **competitive PURE Award** for his project examining "Structural properties and mitochondrial function of cardiac muscle in response to a high-fat and high-sucrose diet in female rats." This research addresses critical questions about cardiac muscle adaptation to metabolic stress and dietary interventions.
+**Abdul-Samad Ahmed** received a **competitive PURE Award** for his project examining "Structural properties and mitochondrial function of cardiac muscle in response to a high-fat and high-sucrose diet in female rats." This research addresses critical questions about cardiac muscle adaptation to metabolic stress and dietary interventions.
 
 ## Research Impact
 

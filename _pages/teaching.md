@@ -24,11 +24,11 @@ I have taught a wide array of undergraduate and graduate courses across multiple
 ### Undergraduate Courses
 
 - **KNES 213 – Introduction to Research in Kinesiology**
-  Taught: 2019–2024 (Fall, Winter, Spring)
+  Taught: 2019–2026 (Fall, Winter, Spring)
   Typical Enrollment: 120–150 students
 
 - **KNES 375 – Tests and Measurement in Exercise Physiology**
-  Taught: 2020–2024 (Winter, Fall)
+  Taught: 2020–2026 (Winter, Fall)
   Typical Enrollment: 75–84 students
 
 - **KNES 355 – Human Growth and Development**
@@ -40,13 +40,13 @@ I have taught a wide array of undergraduate and graduate courses across multiple
   Enrollment: 40 students
 
 - **KNES 381 – Computer Applications in Kinesiology**
-  Taught: 2010–2024 (Fall, Winter)
+  Taught: 2010–2026 (Fall, Winter)
   Enrollment: 24 students per term
 
 ### Graduate Courses
 
 - **KNES 606 / KNES 613 / KNES 614 – Practical Skills for Applied Exercise Physiology**
-  Taught: 2020–2024 (Fall/Winter)
+  Taught: 2020–2026 (Fall/Winter)
   Enrollment: 9–14 students per term
 
 ### Course Design Philosophy

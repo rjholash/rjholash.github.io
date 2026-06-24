@@ -1,13 +1,14 @@
 ---
 layout: page
 title: "MELT: Multimedia-Experiential Learning & Teaching in Kinesiology"
-description: Pairing high-fidelity multimedia with hands-on experiential practice to help students master foundational assessment skills in kinesiology
+description: Pairing high-fidelity multimedia with hands-on experiential practice to help students master foundational assessment skills in KNES 375
+img: andrew_filewich_melt_poster_graphic.png
 date: 2023-06-20
 importance: 1
 category: teaching-innovation
 ---
 
-MELT is an applied teaching and learning initiative led by Dr. John Holash that pairs high-fidelity multimedia with hands-on, experiential practice to help students master foundational assessment skills in kinesiology. Building on the lab-rich environment of KNES 375: Tests & Measurements in Kinesiology, MELT develops short, tightly focused demonstration videos and practice resources that students can use before, during, and after lab to sharpen technique and decision-making.
+MELT is an applied teaching and learning initiative led by Dr. John Holash that pairs high-fidelity multimedia with hands-on, experiential practice to help students master foundational assessment skills in KNES 375: Tests & Measurements in Kinesiology. Building on the course's lab-rich environment, MELT develops short, tightly focused demonstration videos and practice resources that students can use before, during, and after lab to sharpen technique and decision-making.
 
 ## Closing the Gap Between Knowing and Doing
 
@@ -23,15 +24,16 @@ To ensure the work truly improves learning, MELT integrates evidence-informed ev
 - **Iterative, data-driven improvement.** Short pulse surveys feed directly into course improvements, aligning resources with what students say they need most.
 - **Student co-creation.** Honours students and teaching assistants contribute filming, editing, and usability testing, gaining meaningful scholarly-teaching experience along the way.
 
-## Current Development: KNES 375
+## KNES 375 Development
 
-Honours student **Andrew Filewich** is leading the development of a comprehensive suite of multimedia resources for KNES 375. His work covers essential practical skills including:
+Honours student **Andrew Filewich** completed his honours project within MELT by filming and developing multimedia resources for KNES 375. His work covers essential practical skills including:
 
 - Blood pressure and heart-rate assessment
 - mCAFT (modified Canadian Aerobic Fitness Test) testing
 - Advanced anthropometric methods, including Jackson-Pollock skinfold procedures
+- Muscle preparations and protein analysis, including Western blot workflows
 
-Andrew's contribution extends beyond video creation to shaping the course's experiential learning structure — coordinating survey design, supporting ethical review processes, and aligning multimedia tools with course learning outcomes.
+Andrew's contribution extended beyond video creation to shaping the course's experiential learning structure — coordinating survey design, supporting ethical review processes, and aligning multimedia tools with course learning outcomes. His honours poster is available here: [AFilewich_Thesis_Poster_Final.pptx](/docs/AFilewich_Thesis_Poster_Final.pptx). Abdul-Samad Ahmed and Sunnie Vuong have also contributed to the MELT lab video library, working with Mauricio Delgado, who leads filming and video editing, and Dr. Venus Joumaa on modules for muscle preparations and protein analysis.
 
 ## Impact So Far
 
@@ -41,7 +43,10 @@ MELT resources are now embedded across KNES 375 learning cycles, supporting stud
 
 - **Dr. Robert John Holash** — Principal Investigator
 - **Dr. Venus Joumaa** — Co-Investigator
-- **Andrew Filewich** — Honours Student (2024-2025)
+- **Mauricio Delgado** — Filming and Video Editing Lead
+- **Andrew Filewich** — Honours Student (2024-2025), KNES 375 MELT Video Development
+- **Abdul-Samad Ahmed** — Student Contributor (2025)
+- **Sunnie Vuong** — Student Contributor (2025)
 
 ## Funding
 

@@ -24,36 +24,60 @@ profiles:
 
 ## Where Science Meets Performance
 
-At the Digital Athlete Lab, we're not just studying human movement – we're revolutionizing how we understand the body in motion. Our team combines expertise in muscle physiology, computational modeling, and exercise science to push the boundaries of what's possible in human performance research.
+At the Digital Athlete Lab, we study muscle function, exercise physiology, and digital learning tools that help students and researchers understand the body in motion. Our team combines muscle physiology, computational modeling, and applied exercise science to connect laboratory measurements with performance, health, and education.
 
 ---
 
-## Doctoral Candidates (Committee Member)
+## Current Doctoral Milestones (Committee Member)
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-md-4">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Keanen McDougal</h5>
-        <h6 class="card-subtitle mb-2 text-muted">PhD Candidate (2020-Present)</h6>
-        <h6 class="card-subtitle mb-2 text-muted">Dr. Aboodarda's Lab</h6>
-        <p class="card-text">Investigating alterations in fatigue, efficiency, and pedaling mechanics during incremental and constant-load high-intensity cycling. Keanen's work bridges the gap between laboratory measurements and real-world performance.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title">Jim Griffiths</h5>
-        <h6 class="card-subtitle mb-2 text-muted">PhD Candidate (2019-Present)</h6>
-        <h6 class="card-subtitle mb-2 text-muted">Dr. MacInnis's Lab</h6>
-        <p class="card-text">Developing novel heart rate detection methods to enhance monitoring capabilities in both clinical and performance settings. Jim's research is revolutionizing how we track cardiovascular responses during activity.</p>
+        <h5 class="card-title">Alyssa Federico</h5>
+        <h6 class="card-subtitle mb-2 text-muted">MSc Student, Dr. Joe Kenal's Lab</h6>
+        <p class="card-text">Passed her candidacy exam for her master's project, "Assessing surgical recovery in sarcoma using the Patient-Reported Outcome Measure Information System (PROMIS) and mobility metrics: a prospective cohort study."</p>
       </div>
     </div>
   </div>
 </div>
 
-## Recent Graduates (Committee Member)
+## Recent Doctoral and Graduate Completions (Committee Member)
+
+<div class="row mt-3">
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Jim Griffiths</h5>
+        <h6 class="card-subtitle mb-2 text-muted">PhD, April 10, 2026</h6>
+        <h6 class="card-subtitle mb-2 text-muted">Dr. MacInnis's Lab</h6>
+        <p class="card-text">Developed novel heart rate detection methods to enhance monitoring capabilities in clinical and performance settings.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Alex Iwasyk</h5>
+        <h6 class="card-subtitle mb-2 text-muted">MSc, defended May 13, 2026</h6>
+        <h6 class="card-subtitle mb-2 text-muted">Faculty of Medicine</h6>
+        <p class="card-text">Completed graduate work on ACTIVATION: MSK Oncology, Mobility and Patient Reported Outcomes.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Keanen McDougal</h5>
+        <h6 class="card-subtitle mb-2 text-muted">PhD, July 29, 2025</h6>
+        <h6 class="card-subtitle mb-2 text-muted">Dr. Aboodarda's Lab</h6>
+        <p class="card-text">Investigated alterations in fatigue, efficiency, and pedaling mechanics during incremental and constant-load high-intensity cycling.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Earlier Graduate Completions (Committee Member)
 
 <div class="row mt-3">
   <div class="col-md-4">
@@ -127,6 +151,38 @@ At the Digital Athlete Lab, we're not just studying human movement – we're rev
 
 The Digital Athlete Lab provides cutting-edge research opportunities for talented undergraduate students, helping them develop hands-on skills in laboratory techniques, data analysis, and scientific inquiry.
 
+### Current and Recent Undergraduate Projects
+
+<div class="row mt-3">
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Sunnie Vuong</h5>
+        <p class="card-text"><strong>NSERC Undergraduate Student Research Award, 2025</strong></p>
+        <p class="card-text">Characterizing structural properties of adductor longus and gracilis muscles from children with cerebral palsy in collaboration with Dr. Walter Herzog's lab. Also contributing to MELT lab videos on muscle preparations and protein analysis with Mauricio Delgado, who leads filming and video editing, and Dr. Venus Joumaa.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Abdul-Samad Ahmed</h5>
+        <p class="card-text"><strong>PURE Award, 2025</strong></p>
+        <p class="card-text">Studying structural properties and mitochondrial function of cardiac muscle after high-fat and high-sucrose diet exposure in female rats. Also contributing to MELT lab videos on muscle preparations and Western blot workflows with Mauricio Delgado, who leads filming and video editing, and Dr. Venus Joumaa.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Andrew Filewich</h5>
+        <p class="card-text"><strong>Kinesiology Honours, 2024-2025</strong></p>
+        <p class="card-text">Completed an honours project filming KNES 375 activities within the MELT project, producing demonstration videos and multimedia tools for applied physiology assessment skills. <a href="/docs/AFilewich_Thesis_Poster_Final.pptx">Poster</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 ### Undergraduate Projects (2023-2024)
 
 <div class="row mt-3">
@@ -156,7 +212,7 @@ The Digital Athlete Lab provides cutting-edge research opportunities for talente
       <div class="card-body">
         <h5 class="card-title">Conner Hass</h5>
         <p class="card-text"><strong>Kinesiology Honours 590, 2023-2024</strong></p>
-        <p class="card-text">Exploring palmer cooling effects on metabolic work production and exercise performance, investigating targeted thermoregulation strategies.</p>
+        <p class="card-text">Exploring palmar cooling effects on metabolic work production and exercise performance, investigating targeted thermoregulation strategies.</p>
       </div>
     </div>
   </div>

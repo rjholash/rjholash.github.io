@@ -7,7 +7,7 @@ importance: 2
 category: physiology
 ---
 
-This undergraduate research project investigates how a high-fat, high-sucrose diet affects cardiac muscle structure and mitochondrial function in female rats. Led by PURE award recipient Abdul-samad Ahmed, the study addresses a critical gap in preclinical obesity research by focusing specifically on female subjects.
+This undergraduate research project investigates how a high-fat, high-sucrose diet affects cardiac muscle structure and mitochondrial function in female rats. Led by PURE award recipient Abdul-Samad Ahmed, the study addresses a critical gap in preclinical obesity research by focusing specifically on female subjects.
 
 ## Project Overview
 
@@ -37,7 +37,7 @@ This project contributes to several important themes:
 
 ## Research Team
 
-- **Abdul-samad Ahmed** — PURE Award recipient (2025)
+- **Abdul-Samad Ahmed** — PURE Award recipient (2025)
 - **Dr. Robert John Holash** — Supervisor, Digital Athlete Lab
 - In collaboration with **Dr. Walter Herzog's lab**, Human Performance Lab
 

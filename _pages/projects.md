@@ -5,7 +5,7 @@ permalink: /projects/
 description: Current and recent research projects from the Digital Athlete Lab
 nav: true
 nav_order: 3
-display_categories: [physiology, recovery, computational-biology, teaching-innovation]
+display_categories: [digital-health, physiology, recovery, computational-biology, teaching-innovation]
 horizontal: false
 ---
 
