@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rjholash.github.io/sitemap.xml
+Sitemap: https://digitalathletelab.com/sitemap.xml
