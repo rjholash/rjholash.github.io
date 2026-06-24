@@ -28,7 +28,7 @@ At the Digital Athlete Lab, we study muscle function, exercise physiology, and d
 
 ---
 
-## Current Doctoral Milestones (Committee Member)
+## Current Master's Students (Committee Member)
 
 <div class="row">
   <div class="col-md-4">
