@@ -58,5 +58,6 @@ jobs:
             --exclude-path _pages/404.md
             --exclude-path _pages/about_einstein.md
             --exclude-path _pages/blog.md
+            --exclude-path _pages/repositories.md
             --verbose --no-progress
             './**/*.md' './**/*.html'
