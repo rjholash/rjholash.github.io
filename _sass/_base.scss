@@ -474,9 +474,129 @@ footer.sticky-bottom {
 
 // Repositories
 
-@media (min-width: 768px) {
-  .repo {
-    max-width: 50%;
+.github-profile-card,
+.repository-card {
+  color: var(--global-text-color);
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.75rem;
+  text-decoration: none;
+  transition:
+    transform 160ms ease,
+    border-color 160ms ease,
+    box-shadow 160ms ease;
+
+  &:hover {
+    color: var(--global-text-color);
+    border-color: var(--global-theme-color);
+    box-shadow: 0 0.65rem 1.5rem rgba(0, 0, 0, 0.09);
+    text-decoration: none;
+    transform: translateY(-2px);
+  }
+}
+
+.github-profile-card {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 1rem;
+  align-items: center;
+  margin: 1.5rem 0 2.5rem;
+  padding: 1.25rem;
+}
+
+.github-profile-icon {
+  color: var(--global-theme-color);
+  font-size: 2.75rem;
+  line-height: 1;
+}
+
+.github-profile-copy {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+}
+
+.github-profile-name {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.github-profile-handle,
+.github-profile-bio,
+.github-profile-meta,
+.repository-card-meta {
+  color: var(--global-text-color-light);
+}
+
+.github-profile-bio {
+  margin-top: 0.35rem;
+}
+
+.github-profile-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+}
+
+.repository-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.repository-card {
+  display: flex;
+  min-height: 13rem;
+  flex-direction: column;
+  padding: 1.25rem;
+}
+
+.repository-card-heading {
+  display: flex;
+  gap: 0.65rem;
+  align-items: center;
+  color: var(--global-theme-color);
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.repository-card-description {
+  margin: 1rem 0;
+  line-height: 1.55;
+}
+
+.repository-card-meta {
+  display: flex;
+  gap: 1rem;
+  margin-top: auto;
+  font-size: 0.8rem;
+
+  .fa-circle {
+    color: var(--global-theme-color);
+    font-size: 0.55rem;
+  }
+}
+
+.repository-card-link {
+  margin-top: 0.9rem;
+  color: var(--global-theme-color);
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+@media (max-width: 767px) {
+  .github-profile-card {
+    grid-template-columns: auto 1fr;
+  }
+
+  .github-profile-meta {
+    grid-column: 1 / -1;
+  }
+
+  .repository-grid {
+    grid-template-columns: 1fr;
   }
 }
 

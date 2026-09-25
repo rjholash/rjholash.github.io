@@ -1,8 +1,28 @@
-github_users:
-  - rjholash
+github_user:
+  username: rjholash
+  name: Dr. Robert John Holash
+  bio: Researcher, athlete, coach, author, muscle physiologist, and exercise scientist.
+  location: University of Calgary
+  public_repos: 8
 
 github_repos:
-  - rjholash/rjholash.github.io
-  - rjholash/enhanced-peer-review-analysis
-  - rjholash/MovellaXC
-  - rjholash/KNES381
+  - name: Digital Athlete Lab website
+    repository: rjholash/rjholash.github.io
+    description: Source code and content for digitalathletelab.com.
+    language: HTML
+    updated: 2026-09-25
+  - name: Enhanced Peer Review Analysis
+    repository: rjholash/enhanced-peer-review-analysis
+    description: Advanced Python tools for analyzing peer-review processes in academic publishing.
+    language: Python
+    updated: 2026-06-08
+  - name: Movella XC
+    repository: rjholash/MovellaXC
+    description: Code and supporting resources for the Movella XC Ski Challenge.
+    language: Research tools
+    updated: 2024-03-01
+  - name: KNES 381
+    repository: rjholash/KNES381
+    description: Course materials and resources for Computer Applications in Kinesiology.
+    language: HTML
+    updated: 2026-03-12
