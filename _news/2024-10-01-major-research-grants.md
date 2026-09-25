@@ -21,8 +21,9 @@ In collaboration with **Dr. Venus Joumaa**, Dr. Holash has received a **$40,000 
 ### Project Impact
 
 The SOTL grant will enable the development of:
+
 - Comprehensive multimedia learning resources
-- Interactive laboratory training modules  
+- Interactive laboratory training modules
 - Evidence-based assessment of educational technology effectiveness
 - Scalable educational tools for exercise physiology instruction
 

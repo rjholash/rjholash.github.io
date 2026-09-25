@@ -28,11 +28,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2.2"
+          ruby-version: "3.4"
           bundler-cache: true
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
@@ -46,13 +46,12 @@ jobs:
             }
       - name: Install and Build 🔧
         run: |
-          pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build --lsi
       - name: Purge unused CSS 🧹
         run: |
-          npm install -g purgecss
-          purgecss -c purgecss.config.js
+          npm ci
+          npx purgecss -c purgecss.config.js
       - name: Run axe 🪓
         # https://github.com/dequelabs/axe-core-npm/tree/develop/packages/cli
         run: |

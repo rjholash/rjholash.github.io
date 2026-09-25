@@ -19,6 +19,7 @@ Dr. John Holash's research on cold water immersion gained significant national a
 ## Radio Interviews
 
 Dr. Holash provided expert commentary across multiple radio markets:
+
 - **CBC Edmonton Live** - "Cold Plunges for the new year" (January 8th)
 - **CKNW 980 Vancouver** - "West coast cold plunges" with Scott Shantz (January 5th)
 - **CHEB Edmonton Live** - "Cold Plunge fad or fact" (January 4th)

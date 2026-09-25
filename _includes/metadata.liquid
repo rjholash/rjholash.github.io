@@ -225,16 +225,16 @@
         "author":
         {
             "@type": "Person",
-            "name": "{{ author_name }}"
+            "name": {{ author_name | jsonify }}
         },
-        "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
+        "url": {{ page.url | prepend: site.baseurl | prepend: site.url | jsonify }},
         "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
-        "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+        "description": {{ page.description | default: site.description | strip_newlines | jsonify }},
+        "headline": {{ page.title | default: site.title | jsonify }},
         {% if sameaslinks != blank %}
-        "sameAs": {{ sameaslinks }},
+        "sameAs": {{ sameaslinks | jsonify }},
         {% endif %}
-        "name": "{{ author_name }}",
+        "name": {{ author_name | jsonify }},
         "@context": "https://schema.org"
     }
   </script>

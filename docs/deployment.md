@@ -11,13 +11,13 @@ This guide explains how to deploy and publish updates to your website.
 
 ## GitHub Pages Deployment
 
-Your website (rjholash.github.io) is hosted on GitHub Pages, which automatically builds and deploys your site when changes are pushed to the main branch.
+Your website ([digitalathletelab.com](https://digitalathletelab.com)) is hosted on GitHub Pages, which automatically builds and deploys the site when changes are pushed to the `master` branch.
 
 ### How It Works
 
 1. You push changes to your GitHub repository
 2. GitHub runs Jekyll to build your website
-3. The built site is published to the URL: https://rjholash.github.io
+3. The built site is published to: https://digitalathletelab.com
 
 ### Repository Settings
 
@@ -85,7 +85,7 @@ Follow these steps to deploy changes to your live website:
    git push origin main
    ```
 5. Wait a few minutes for GitHub Pages to build and deploy your site
-6. Visit https://rjholash.github.io to verify your changes
+6. Visit https://digitalathletelab.com to verify your changes
 
 ### Using GitHub Desktop
 

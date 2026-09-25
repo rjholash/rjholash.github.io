@@ -21,8 +21,8 @@
       institution: University of Calgary
       year: 2017
       description:
-        - 'Three dimensional stochastic computer model of the skeletal muscle half 
-          sarcomere: changes in calcium diffusion caused by the myofilament lattice.'
+        - "Three dimensional stochastic computer model of the skeletal muscle half
+          sarcomere: changes in calcium diffusion caused by the myofilament lattice."
     - title: MSc in Exercise Physiology
       institution: University of Calgary
       year: 2000
@@ -77,9 +77,9 @@
         Physiology
       year: 2024
       doi: 10.1152/ajpregu.00016.2024
-    - title: 'Technological Breakthroughs in Sport: Current Practice and Future Potential
+    - title: "Technological Breakthroughs in Sport: Current Practice and Future Potential
         of Artificial Intelligence, Virtual Reality, Augmented Reality, and Modern Data
-        Visualization in Performance Analysis'
+        Visualization in Performance Analysis"
       authors: Victor R. A. Cossich, Dave Carlgren, Robert John Holash, Larry Katz
       journal: Applied Sciences
       year: 2023
@@ -102,8 +102,8 @@
       journal: Medicine and Science in Sports and Exercise
       year: 2018
       doi: 10.1249/MSS.0000000000001427
-    - title: 'A New Test to Measure Neuromuscular Fatigue During and Immediately After
-        Cycling Exercise: A Reliability Study'
+    - title: "A New Test to Measure Neuromuscular Fatigue During and Immediately After
+        Cycling Exercise: A Reliability Study"
       authors: Douglas Doyle-Baker, John Temesi, Mary E Medysky, Rosie Twomey, Robert
         J Holash, Nicole Culos-Reed, Guillaume Y Millet
       journal: Medicine and Science in Sports and Exercise
@@ -121,7 +121,7 @@
         Larry Katz
       journal: Loading
       year: 2012
-      doi: ''
+      doi: ""
 
 - title: Conferences
   type: list

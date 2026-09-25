@@ -2,7 +2,7 @@
 layout: page
 title: "MELT: Multimedia-Experiential Learning & Teaching in Kinesiology"
 description: Pairing high-fidelity multimedia with hands-on experiential practice to help students master foundational assessment skills in KNES 375
-img: andrew_filewich_melt_poster_graphic.png
+img: /assets/img/andrew_filewich_melt_poster_graphic.png
 date: 2023-06-20
 importance: 1
 category: teaching-innovation

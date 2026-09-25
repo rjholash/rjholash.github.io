@@ -12,6 +12,7 @@ published: false
 Lately, I've been thinking about **[Topic]** — and how it intersects with my teaching, research, and experiences in [e.g., exercise physiology, education, digital learning].
 
 Some questions I’ve been sitting with:
+
 - What would it look like to [interesting idea]?
 - Why do we often assume [bias or trend] in [field]?
 - How can I help students engage more deeply with [concept]?

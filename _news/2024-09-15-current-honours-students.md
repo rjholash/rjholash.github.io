@@ -11,11 +11,13 @@ The Digital Athlete Lab mentored two exceptional Honours students through divers
 ## Honours Research Projects
 
 ### Dana Litvak - KNES 590 Honours
+
 **Research Focus:** "Cold Water Immersion for Exercise-Induced Muscle Damage Recovery: A Systematized Umbrella Review"
 
 Dana's comprehensive review project synthesizes the current state of evidence surrounding cold water immersion as a recovery modality. This systematic approach to literature analysis builds upon the lab's ongoing cold water research while developing critical skills in evidence-based practice and research methodology.
 
-### Sia Gaur - KNES 590 Honours  
+### Sia Gaur - KNES 590 Honours
+
 **Research Focus:** "Assessing the Impact of Exercise Duration, Intensity, and Modality on Cardiovascular Health Outcomes Using Wearable Technology: A Correlational Analysis"
 
 Sia's project represents the cutting edge of digital health research, investigating how wearable devices can provide insights into the dose-response relationships between exercise parameters and cardiovascular adaptations. This work directly aligns with the Digital Athlete Lab's mission to leverage technology for performance and health optimization.
@@ -23,8 +25,9 @@ Sia's project represents the cutting edge of digital health research, investigat
 ## Research Mentorship Philosophy
 
 These projects demonstrate the lab's commitment to student-driven research that combines rigorous scientific methodology with practical applications. Both students are developing skills in:
+
 - Advanced research design and methodology
-- Critical analysis of scientific literature  
+- Critical analysis of scientific literature
 - Data collection and analysis techniques
 - Professional presentation and communication
 

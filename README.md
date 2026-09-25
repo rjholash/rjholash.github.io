@@ -1,6 +1,6 @@
 # 🏃‍♂️ Digital Athlete Lab Website 🧬
 
-This repository contains the source code for the [Digital Athlete Lab](https://rjholash.github.io) website, the research lab of Dr. R. John Holash at the University of Calgary's Faculty of Kinesiology.
+This repository contains the source code for the [Digital Athlete Lab](https://digitalathletelab.com) website, the research lab of Dr. R. John Holash at the University of Calgary's Faculty of Kinesiology.
 
 ## 🔬 About the Lab
 
@@ -30,6 +30,7 @@ Comprehensive documentation for maintaining this website is available in the [do
 The CV page is managed through a two-file system that separates content from presentation:
 
 **Main Files:**
+
 - `_pages/cv.md` - CV page template with layout settings and metadata
 - `_data/cv.yml` - Structured YAML file containing all CV content
 
@@ -42,14 +43,16 @@ The CV page uses Jekyll's data file system where the `cv.md` template references
 - **Maintainability**: Separate content from presentation logic
 
 **To Update Your CV:**
+
 1. **Content Changes**: Edit `_data/cv.yml` - add/modify sections like Education, Experience, Publications
 2. **Layout Changes**: Modify `_layouts/cv.html` (if it exists) or page settings in `_pages/cv.md`
 3. **PDF Version**: Update the `cv_pdf` field in `_pages/cv.md` to reference your latest PDF file
 
 **YAML Structure Example:**
+
 ```yaml
 - title: Section Name
-  type: time_table  # or 'map' for key-value pairs
+  type: time_table # or 'map' for key-value pairs
   contents:
     - title: Position/Degree
       institution: Institution Name
@@ -60,6 +63,7 @@ The CV page uses Jekyll's data file system where the `cv.md` template references
 ```
 
 **Backup Files:**
+
 - `cv_bak.yml` - Backup version of CV data
 - `_data/cv_old.yml` - Previous version for reference
 
@@ -73,14 +77,14 @@ This website is built using:
 
 ## 📫 Contact
 
-For more information about the Digital Athlete Lab, visit our website at [https://rjholash.github.io](https://rjholash.github.io) or contact:
+For more information about the Digital Athlete Lab, visit [digitalathletelab.com](https://digitalathletelab.com) or contact:
 
-**Dr. R. John Holash**  
-Faculty of Kinesiology  
-Human Performance Laboratory  
-University of Calgary  
-2500 University Drive  
-Calgary, AB T2N 1N4  
+**Dr. R. John Holash**<br>
+Faculty of Kinesiology<br>
+Human Performance Laboratory<br>
+University of Calgary<br>
+2500 University Drive<br>
+Calgary, AB T2N 1N4<br>
 ✉️ Email: rjholash@ucalgary.ca
 
 ---

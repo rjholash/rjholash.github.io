@@ -14,6 +14,7 @@ I'm proud to highlight the work of **[Student Name]**, who recently completed an
 > 📊 **Project Title:** [e.g., "The Impact of Ice Baths on Recovery Metrics in Collegiate Rowers"]
 
 **Highlights of the work:**
+
 - [Key insight or finding]
 - [A technique or method that was especially well executed]
 - [Link to poster, video, or public presentation if available]

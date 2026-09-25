@@ -11,6 +11,7 @@ The Digital Athlete Lab continues its strong tradition of graduate student mento
 ## PhD Student Collaborations
 
 ### Keanen McDougal - Faculty of Kinesiology (graduated July 29, 2025)
+
 **Research Focus:** "Alterations in fatigue, efficiency, and pedaling mechanics during incremental and constant-load high-intensity cycling"
 
 Keanen's doctoral research examined the complex interactions between physiological fatigue and biomechanical efficiency during high-intensity cycling performance. This work contributes fundamental insights into the mechanisms underlying performance decrements in competitive cycling and has applications for training optimization and performance prediction.
@@ -18,6 +19,7 @@ Keanen's doctoral research examined the complex interactions between physiologic
 **Previous Recognition:** Keanen served as a CURE Coach for the innovative KNES 375 laboratory redesign project, demonstrating leadership in both research and educational innovation.
 
 ### Jim Griffiths - Faculty of Kinesiology (graduated April 10, 2026)
+
 **Research Focus:** "Heart Rate Novel Methods of Detection"
 
 Jim's research developed advanced computational approaches to heart rate analysis, exploring novel signal processing techniques and physiological applications. This work sits at the intersection of exercise physiology, biomedical engineering, and data science, aligning with the Digital Athlete Lab's computational biology expertise.
@@ -25,6 +27,7 @@ Jim's research developed advanced computational approaches to heart rate analysi
 ## Research Mentorship Model
 
 As a committee member for both students, Dr. Holash provides specialized expertise in:
+
 - Computational modeling and data analysis
 - Muscle physiology and performance mechanisms
 - Research methodology and experimental design
