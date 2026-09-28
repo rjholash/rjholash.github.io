@@ -8,7 +8,7 @@ tags: [ACTIVATION, Activation-Health, digital-health, mobile-health, oncology, r
 
 The ACTIVATION research program began with a practical problem: much of what matters in recovery happens outside the clinic and outside the laboratory. Patients move through daily life, adapt to surgery, manage symptoms, and recover function in ways that are difficult to capture with occasional appointments or isolated performance tests.
 
-In 2024, Dr. John Holash and Dr. Joe Kenal co-developed and co-led **ACTIVATION**: Activity Capture To Investigate Voluntary Activity in Oncology and Normal Populations. The program was designed to investigate how mobile-health and wearable technologies could support objective monitoring of physical activity, recovery trajectories, and health outcomes across clinical and healthy populations.
+In 2024, Dr. John Holash and Dr. Joe Kendal co-developed and co-led **ACTIVATION**: Activity Capture To Investigate Voluntary Activity in Oncology and Normal Populations. The program was designed to investigate how mobile-health and wearable technologies could support objective monitoring of physical activity, recovery trajectories, and health outcomes across clinical and healthy populations.
 
 ## From Seed Funding to Infrastructure
 
