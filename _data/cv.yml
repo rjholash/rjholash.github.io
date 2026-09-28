@@ -4,7 +4,7 @@
     - name: Full Name
       value: Dr. Robert John Holash
     - name: Title
-      value: Assistant Professor (Teaching)
+      value: Associate Professor (Teaching)
     - name: Department
       value: Faculty of Kinesiology
     - name: Institution
@@ -15,6 +15,14 @@
       value: rjholash@ucalgary.ca
     - name: Location
       value: Calgary, Alberta, Canada
+    - name: ORCID
+      links:
+        - name: 0000-0002-4253-5156
+          link: https://orcid.org/0000-0002-4253-5156
+    - name: Google Scholar
+      links:
+        - name: Publications and citations
+          link: https://scholar.google.com/citations?user=Qx4U24oAAAAJ&hl=en
 
 - title: Education
   type: time_table
@@ -43,12 +51,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Assistant Professor (Teaching)
+    - title: Associate Professor (Teaching) - Exercise Physiology
       institution: University of Calgary, Faculty of Kinesiology
       year: 2019 - present
       description:
-        - Teaching and supervising students in Exercise Physiology, Data Science, Computational Biology
-        - Developing current techniques for monitoring, recording, and understanding data relating to physical health, wellness, and performance across the lifespan
+        - Teaching and research in exercise physiology, data science, and computational biology
+        - Leading undergraduate and graduate instruction while supervising student research in muscle physiology and performance analysis
+        - Granted tenure and promoted to Associate Professor effective July 1, 2025
     - title: Data Scientist / Systems Architect
       institution: Human Performance Lab, Faculty of Kinesiology
       year: 2013 - 2018
@@ -63,25 +72,61 @@
         - Technical lead, software designer, and analyst for Kinesiology IT
         - Led development and implementation of software projects, network designs, and multi-factor computer projects
         - Supervised up to 5 employees, developed 3 versions of Kinesiology websites
-    - title: IT Security and Networking Consultant
-      institution: RJHolash Consulting
-      year: 1984 - 2015
+    - title: Research and Teaching Assistant
+      institution: University of Calgary, Faculty of Kinesiology
+      year: 1996 - 2000
       description:
-        - Private consulting firm providing technical support, security development, software development
-        - Clients included Calgary Separate School Board, Calgary Regional Health Authority, CNIB
-        - Employed up to 3 additional staff for various projects
-    - title: Civilian Instructor
-      institution: Department of National Defence, CFB Medley
-      year: 1994 - 1996
+        - Graduate teaching assistant for anatomy, physiology, and biomechanics courses
+        - Research coordination and data analysis for exercise science studies
+
+- title: Selected Publications
+  type: time_table
+  contents:
+    - title: "Wearable Technology in Orthopaedic Surgery: Applications and Future Directions"
+      institution: JBJS Reviews 13(7)
+      year: 2025
       description:
-        - Developed and taught Survival Instructors and Air Crew Survival courses
-        - Programs included orienteering, backcountry survival, camp skills, water craft safety
-    - title: Outdoor Education Specialist
-      institution: Various Alberta Institutions
-      year: 1991 - 1996
+        - Alexander W. Iwasyk, Sia S. Gaur, Alyssa Federico, John R. Holash, Fred Nicholls, Michael J. Monument, and Joseph K. Kendal
+    - title: Maximal active force in skinned muscle fibres from children with cerebral palsy
+      institution: Journal of Biomechanics 186, 112710
+      year: 2025
       description:
-        - Ski instructor, canoe instructor/coach/guide at Canada Olympic Park and Calgary Canoe Club
-        - Developed outdoor leadership programs with focus on experiential learning
+        - Venus Joumaa, Faizan Syed, Jason J. Howard, Gavin K. Thomas, Latif Omerkhil, Sach Dabgotra, Isaac Obrigewitsch, Shuyue Liu, Robert J. Holash, Timothy R. Leonard, and Walter Herzog
+      linkitems:
+        - linkname: DOI
+          link: https://doi.org/10.1016/j.jbiomech.2025.112710
+    - title: A Ramp- Versus Step-Transition to Constant-Work Rate Exercise Decreases Steady-State Oxygen Uptake
+      institution: Medicine & Science in Sports & Exercise
+      year: 2024
+      description:
+        - Gabriele Marinari, Danilo Iannetta, John R. Holash, Robin Trama, Robin Faricier, Alessandro M. Zagatto, Daniel A. Keir, and Juan M. Murias
+      linkitems:
+        - linkname: DOI
+          link: https://doi.org/10.1249/MSS.0000000000003372
+    - title: Heavy-intensity priming exercise extends the VO₂max plateau and increases peak-power output during ramp-incremental exercise
+      institution: American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 327(2)
+      year: 2024
+      description:
+        - Gabriele Marinari, Danilo Iannetta, Robert John Holash, Alessandro M. Zagatto, Daniel A. Keir, and Juan M. Murias
+      linkitems:
+        - linkname: DOI
+          link: https://doi.org/10.1152/ajpregu.00016.2024
+    - title: Technological Breakthroughs in Sport
+      institution: Applied Sciences 13(23), 12965
+      year: 2023
+      description:
+        - Victor R. A. Cossich, Dave Carlgren, Robert John Holash, and Larry Katz
+      linkitems:
+        - linkname: DOI
+          link: https://doi.org/10.3390/app132312965
+    - title: A stochastic simulation of skeletal muscle calcium transients in a structurally realistic sarcomere model using MCell
+      institution: PLOS Computational Biology 15(3)
+      year: 2019
+      description:
+        - Robert John Holash and Brian R. MacIntosh
+      linkitems:
+        - linkname: DOI
+          link: https://doi.org/10.1371/journal.pcbi.1006712
 
 - title: Courses Taught
   type: time_table
@@ -90,7 +135,7 @@
       institution: University of Calgary
       year: 2019 - 2026
       description:
-        - Taught 11 sections with class sizes ranging from 55-150 students
+        - Taught 11+ sections; recent enrollments of 146-150 students
         - Core foundational course for Kinesiology majors
     - title: KNES 355 - Human Growth and Development
       institution: University of Calgary
@@ -99,37 +144,65 @@
         - Large enrollment course with 250-262 students per section
     - title: KNES 375 - Tests and Measurements in Kinesiology
       institution: University of Calgary
-      year: 2020 - 2026
+      year: 2020 - 2025
       description:
-        - Applied statistics and measurement course with 71-80 students per section
+        - Five or more sections; recent enrollment of 86 students
         - Incorporated CURE (Course-based Undergraduate Research Experience) methodology
     - title: KNES 381 - Computer Applications in Kinesiology
       institution: University of Calgary
       year: 2010 - 2026
       description:
         - Specialized programming and data analysis course, 24 students per section
-    - title: KNES 613/614/606 - Practical Skills for Applied Exercise Physiology
-      institution: University of Calgary (Graduate)
-      year: 2020 - 2026
+    - title: KNES 475 - Physiological Bases of Athletic Performance
+      institution: University of Calgary
+      year: 2022
       description:
-        - Graduate-level practical laboratory skills course, 9-15 students per section
+        - Physiological factors, training principles, and the scientific evidence underlying athletic performance
+    - title: KNES 606 - Applied Exercise Physiology Practicum
+      institution: University of Calgary (Graduate)
+      year: 2020 - 2024
+      description:
+        - Eight graduate-level laboratory sections; approximately 14 students per section
+    - title: KNES 613/614 - Applied Exercise Physiology Practicum
+      institution: University of Calgary (Graduate)
+      year: 2025 - 2026
+      description:
+        - Graduate-level practical laboratory skills course; recent enrollment of 15 students per section
 
 - title: Honours and Awards
   type: time_table
   contents:
-    - title: Spark Grant - McCaig Institute
+    - title: Biomedical Engineering-Kinesiology Summer Research Studentship
       institution: University of Calgary
-      year: 2024
+      year: 2026
       description:
-        - 'Project: "ACTIVATION: Activity Capture To Investigate Voluntary Activity in Oncology and Normal populations" (with Dr. Joe Kenal)'
-        - "Grant Value: $20,000"
-        - "Co-developed the research program and technical framework for ACTIVATION Health"
+        - 'Student: John Al-Rachid; Project: "Does Menopause Accentuate Stroke-Induced Muscle Weakness in Rats?"'
+        - "Grant Value: $7,500"
+    - title: PURE Award
+      institution: University of Calgary
+      year: 2026
+      description:
+        - 'Student: Faraja Herve Habiyakare; Project: "Effect of Menopause and Stroke on Skeletal Muscle Sarcomeric Proteins in a Rat Model"'
+        - "Grant Value: $7,500"
     - title: Alberta Spine Foundation Research Grant
       institution: Alberta Spine Foundation
       year: 2025
       description:
-        - "Collaborative spine-surgery and rehabilitation research grant led by Dr. Fred Nicholls"
-        - "ACTIVATION Health research infrastructure contributed to the successful $75,000 award"
+        - 'Project: "ACTIVATION: Activity Capture To Investigate Voluntary Activity in Oncology and Normal populations"'
+        - "Co-investigator with Drs. Joe Kendal and Fred Nicholls; Grant Value: $75,000"
+    - title: SPARK Alberta Project
+      institution: SPARK Alberta
+      year: 2025
+      description:
+        - Activation Health technology advancement and commercialization project
+        - Chief technical designer, programmer, and researcher
+    - title: Spark Grant - McCaig Institute
+      institution: University of Calgary
+      year: 2024
+      description:
+        - 'Project: "ACTIVATION: Activity Capture To Investigate Voluntary Activity in Oncology and Normal populations" (with Dr. Joe Kendal)'
+        - "Grant Value: $20,000"
+        - "Co-developed the research program and technical framework for ACTIVATION Health"
     - title: Science of Teaching and Learning (SOTL) Grant
       institution: University of Calgary
       year: 2024
@@ -147,6 +220,11 @@
       description:
         - "Project: Redevelopment of Lab component of Kinesiology 375 for student inquiry-driven learning"
         - "Grant Value: $10,000"
+    - title: Faculty of Kinesiology Startup Funds
+      institution: University of Calgary
+      year: 2019
+      description:
+        - "Research startup funding; Grant Value: $40,000"
     - title: Young Investigator Award
       institution: University of Calgary
       year: 2013
@@ -164,20 +242,28 @@
   contents:
     - title: Current Graduate Students (Supervisory Committee)
       institution: Faculty of Kinesiology
-      year: 2026 - present
+      year: 2025 - present
       description:
-        - 'MSc Alyssa Federico (Dr. Joe Kenal''s Lab): passed candidacy exam; "Assessing surgical recovery in sarcoma using the Patient-Reported Outcome Measure Information System (PROMIS) and mobility metrics: a prospective cohort study"'
+        - 'MSc Alyssa Federico, Medical Science: "Evaluating the Patient-Reported Outcome Measure Information System (PROMIS) in Sarcoma Patients"'
     - title: Recent Graduate Completions
       institution: Faculty of Kinesiology
       year: 2022 - 2026
       description:
-        - 'MSc Alex Iwasyk, defended May 13, 2026: "ACTIVATION: MSK Oncology| Mobility and Patient Reported Outcomes (PRO)"'
-        - 'PhD Jim Griffiths, April 10, 2026: "Heart Rate Novel Methods of Detection"'
-        - 'PhD Keanen McDougal, July 29, 2025: "Alterations in fatigue, efficiency, and pedaling mechanics during incremental and constant-load high-intensity cycling"'
+        - 'MSc Alex Iwasky, graduated March 2026: "ACTIVATION: MSK Oncology | Mobility and Patient Reported Outcomes (PRO)"'
+        - 'PhD Jim Griffiths, graduated 2026: "Heart Rate Novel Methods of Detection"'
+        - 'PhD Keenan McDougal, graduated July 29, 2025: "Alterations in fatigue, efficiency, and pedaling mechanics during incremental and constant-load high-intensity cycling"'
         - 'PhD Gabriele Marinari: "New approaches to characterize the V̇O₂ slow component and its physiological mechanisms"'
         - 'MSc Brynn Lindstrom: "Does critical power underestimate thresholds in experienced exercisers"'
         - 'MSc Timi Ajayai: "Detrended fluctuation analysis of heart rate data during constant intensity exercise"'
+        - 'MSc Marissa Doroshuk: "Novel Ovulation Research-Recruitment Methods for an App Study"'
+        - 'MSc Alissa Kazakoff: "Novel Ovulation Research-Recruitment Methods for an App"'
         - 'MSc Mary Mackie: "The Step-Ramp-Step Protocol: Evaluating the Effects of a Smaller First Step Amplitude"'
+    - title: Current Undergraduate Research Students
+      institution: University of Calgary
+      year: 2026
+      description:
+        - 'Biomedical Engineering-Kinesiology Summer Research Studentship - John Al-Rachid: "Does Menopause Accentuate Stroke-Induced Muscle Weakness in Rats?"'
+        - 'PURE Award - Faraja Herve Habiyakare: "Effect of Menopause and Stroke on Skeletal Muscle Sarcomeric Proteins in a Rat Model"'
     - title: Undergraduate Research Awards (NSERC/PURE)
       institution: University of Calgary
       year: 2022 - 2025
@@ -193,7 +279,7 @@
       institution: University of Calgary
       year: 2024 - 2025
       description:
-        - 'Honours 590 - Andrew Filewich: "Multimedia-Experiential Learning in KNES 375 — Developing Demonstration Videos and Interactive Learning Modules for Physiological Assessment Techniques" (MELT grant supported; poster: docs/AFilewich_Thesis_Poster_Final.pptx)'
+        - 'Honours 590 - Andrew Filewich: "Multimedia-Experiential Learning in KNES 375: Developing Demonstration Videos and Interactive Learning Modules for Physiological Assessment Techniques" (MELT grant supported)'
         - 'Honours 590 - Dana Litvak: "Cold Water Immersion for Exercise-Induced Muscle Damage Recovery: A Systematized Umbrella Review"'
         - 'Honours 590 - Sia Gaur: "Assessing the Impact of Exercise Duration, Intensity, and Modality on Cardiovascular Health Outcomes Using Wearable Technology: A Correlational Analysis"'
     - title: Former Undergraduate Research Students
@@ -215,6 +301,17 @@
 - title: Student Awards and Recognition
   type: time_table
   contents:
+    - title: McCaig and BURP Summer Student Symposia
+      institution: University of Calgary
+      year: 2026
+      description:
+        - 'John Al-Rachid: "Does Menopause Accentuate Stroke-Induced Muscle Weakness in Rats?" (August 12-13, 2026)'
+        - 'Faraja Herve Habiyakare: "Effect of Menopause and Stroke on Skeletal Muscle Sarcomeric Proteins in a Rat Model" (August 12-13, 2026)'
+    - title: Faculty of Kinesiology Department Symposium
+      institution: University of Calgary
+      year: 2026
+      description:
+        - 'Andrew Filewich: "Multimedia-Experiential Learning in KNES 375: Developing Demonstration Videos and Interactive Learning Modules for Physiological Assessment Techniques"'
     - title: Transdisciplinary Child & Maternal Health Trainee Research Day
       institution: University of Calgary
       year: 2025
@@ -303,6 +400,29 @@
 - title: Media Appearances and Public Engagement
   type: time_table
   contents:
+    - title: ACTIVATION Health - Made-at-UCalgary app aims to change how recovery is measured
+      institution: UCalgary News
+      year: 2026
+      description:
+        - "Feature published September 17, 2026"
+      linkitems:
+        - linkname: Read article
+          link: https://www.ucalgary.ca/news/activation-health-made-ucalgary-app-aims-change-how-recovery-measured
+    - title: Exploring the AI Running Revolution
+      institution: Run to the Top Podcast
+      year: 2025
+      description:
+        - Expert discussion of artificial intelligence and running
+    - title: Can A Weighted Vest Amp Up Your Daily Walk?
+      institution: Canadian Living
+      year: 2025
+      description:
+        - Expert commentary for an article by Sara Romano
+    - title: Cold-plunge media interviews
+      institution: CBC Radio One and AM 770 CHQR
+      year: 2025
+      description:
+        - Interviews on the science and health effects of cold plunging
     - title: ACTIVATION Health Platform
       institution: Activation Health Corp.
       year: 2024 - present
@@ -357,6 +477,12 @@
       year: 2019 - present
       description:
         - Educational technology integration and policy
+    - title: Thesis Examiner and Neutral Chair
+      institution: University of Calgary
+      year: 2020 - present
+      description:
+        - Examiner for PhD candidacy examinations
+        - Neutral chair for 15+ doctoral and master's thesis defenses across Kinesiology and Biomedical Engineering
 
 - title: Research Institute Memberships
   type: time_table
@@ -390,10 +516,42 @@
       year: 2010 - present
       description:
         - Computational research community
+    - title: European Congress of Sports Science
+      institution: ECSS
+      year: 2025 - present
+      description:
+        - Professional member
+
+- title: Patents, Licenses and Innovations
+  type: time_table
+  contents:
+    - title: ACTIVATION Health
+      institution: Apple App Store
+      year: 2025 - 2026
+      description:
+        - App development and release
+      linkitems:
+        - linkname: Project site
+          link: https://healthtracker.ucalgary.ca/
+    - title: Sauna Timer
+      institution: Apple App Store
+      year: 2025 - 2026
+      description:
+        - App development and release
+    - title: Plunge Timer
+      institution: Apple App Store
+      year: 2025 - 2026
+      description:
+        - App development and release
 
 - title: Certifications and Training
   type: time_table
   contents:
+    - title: European College of Sports Science Congress
+      institution: Rimini, Italy
+      year: 2025
+      description:
+        - Professional development, July 1-4, 2025
     - title: Range Safety Officer
       institution: Canmore Nordic Centre
       year: 2020
@@ -409,6 +567,32 @@
       year: 2004
       description:
         - MCSA certification
+    - title: ITIL Intermediate Level V3
+      institution: University of Calgary
+      year: 2008
+      description:
+        - Standards for computer support
+    - title: Microsoft Certified Database Professional
+      institution: University of Calgary Continuing Education
+      year: 2001
+      description:
+        - MCDP certification
+    - title: Microsoft Certified Professional
+      institution: University of Calgary Continuing Education
+      year: 1998
+      description:
+        - MCP certification
+    - title: Canadian Ski Instructor Certifications
+      institution: Canada Olympic Park, WinSport
+      year: 1994
+      description:
+        - Canadian Association of Alpine Ski Instructors Level I
+        - Canadian Association of Nordic Ski Instructors Level I
+    - title: Canadian Recreational Canoe Association
+      institution: Calgary Canoe Club
+      year: 1992
+      description:
+        - CRCA Level V
 
 - title: Volunteer Leadership
   type: time_table

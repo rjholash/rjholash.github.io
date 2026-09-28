@@ -4,6 +4,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .DS_store
+*:Zone.Identifier
 .tweet-cache
 node_modules/
 vendor/

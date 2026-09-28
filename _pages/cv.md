@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: holash_cv.pdf
-description: Current CV as of June 2026
+description: Current CV as of September 2026
 toc:
   sidebar: left
 ---
