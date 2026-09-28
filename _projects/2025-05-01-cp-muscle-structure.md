@@ -2,7 +2,7 @@
 layout: page
 title: "Structural Characteristics of Adductor Longus and Gracilis in Pediatric Cerebral Palsy"
 description: Investigating structural differences in two key muscles from children with cerebral palsy
-img: /assets/img/muscle_fiber_cp.jpg
+img: /assets/img/pediatric-cp-muscle-structure.webp
 importance: 1
 category: physiology
 ---

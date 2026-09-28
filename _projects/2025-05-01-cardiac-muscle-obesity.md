@@ -2,7 +2,7 @@
 layout: page
 title: "High-Fat/High-Sucrose Diet Effects on Cardiac Muscle in Female Rats"
 description: Investigating structural properties and mitochondrial function of cardiac muscle in response to diet-induced obesity
-img: /assets/img/muscle_fiber_cp.jpg
+img: /assets/img/cardiac-muscle-metabolic-stress.webp
 importance: 2
 category: physiology
 ---
