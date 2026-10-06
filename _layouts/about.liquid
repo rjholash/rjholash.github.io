@@ -1,76 +1,71 @@
 ---
 layout: default
 ---
-<div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
-  </header>
-
-  <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
-          {% endif %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid path = profile_image_path class = profile_image_class sizes = sizes alt = page.profile.image
-            cache_bust = true
-          %}
-        {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
+<div class="lab-home">
+  <section class="lab-hero" aria-labelledby="lab-hero-title">
+    <div class="lab-hero__copy">
+      <p class="eyebrow">Muscle physiology · Digital health · Human performance</p>
+      <h1 id="lab-hero-title">Researching how people move, adapt, and recover.</h1>
+      <p class="lab-hero__lead">
+        The Digital Athlete Lab connects muscle physiology, computational biology, digital health, and experiential learning at the University of Calgary.
+      </p>
+      <div class="lab-actions">
+        <a class="lab-button lab-button--primary" href="{{ '/projects/' | relative_url }}">Explore our research <span aria-hidden="true">→</span></a>
+        <a class="lab-button lab-button--text" href="{{ '/people/' | relative_url }}">Meet the lab <span aria-hidden="true">→</span></a>
       </div>
-    {% endif %}
+      <p class="lab-hero__mission">People · Movement · Longer, healthier lives</p>
+    </div>
+    <figure class="lab-hero__media">
+      <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Dr. John Holash explaining a force–velocity relationship at a whiteboard">
+      <figcaption>
+        <strong>Led by Dr. Robert John Holash</strong>
+        <span>Faculty of Kinesiology · University of Calgary</span>
+      </figcaption>
+    </figure>
+  </section>
 
-    <div class="clearfix">{{ content }}</div>
-
-    <!-- News -->
-    {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
-
-    <!-- Latest posts -->
-    {% if page.latest_posts %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
-    {% endif %}
-
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
+  <section class="lab-section" aria-labelledby="research-heading">
+    <div class="lab-section__heading">
+      <div>
+        <p class="eyebrow">What we investigate</p>
+        <h2 id="research-heading">Current research</h2>
       </div>
-    {% endif %}
-  </article>
+      <a class="lab-arrow-link" href="{{ '/projects/' | relative_url }}">View all research <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="lab-feature-grid">
+      <a class="lab-feature-card" href="{{ '/projects/2024-08-15-fatigue-modeling-cp/' | relative_url }}">
+        <div class="lab-feature-card__image"><img src="{{ '/assets/img/muscle-fatigue-testing.webp' | relative_url }}" alt="Illustration of skeletal muscle structure and physiological testing"></div>
+        <div class="lab-feature-card__body"><span>Muscle physiology</span><h3>Muscle structure and function</h3><p>Understanding force, fatigue, and adaptation from the sarcomere to human movement.</p></div>
+      </a>
+      <a class="lab-feature-card" href="{{ '/projects/2024-10-01-activation-health-platform/' | relative_url }}">
+        <div class="lab-feature-card__image"><img src="{{ '/assets/img/activation_project.jpg' | relative_url }}" alt="ACTIVATION Health mobile research platform and participant dashboard"></div>
+        <div class="lab-feature-card__body"><span>Digital health</span><h3>ACTIVATION Health</h3><p>Measuring mobility, activity, and recovery beyond the clinic and laboratory.</p></div>
+      </a>
+      <a class="lab-feature-card" href="{{ '/projects/2023-06-20-melt-study/' | relative_url }}">
+        <div class="lab-feature-card__image"><img src="{{ '/assets/img/andrew_filewich_melt_poster_graphic.png' | relative_url }}" alt="Students using multimedia resources during exercise physiology laboratory training"></div>
+        <div class="lab-feature-card__body"><span>Teaching innovation</span><h3>Learning through experience</h3><p>Pairing precise multimedia preparation with hands-on scientific practice.</p></div>
+      </a>
+    </div>
+  </section>
+
+  <section class="lab-section lab-stories" aria-labelledby="stories-heading">
+    <div class="lab-section__heading">
+      <div><p class="eyebrow">Research, students, and ideas</p><h2 id="stories-heading">Latest from the lab</h2></div>
+      <a class="lab-arrow-link" href="{{ '/blog/' | relative_url }}">View all stories <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="lab-story-list">
+      {% for post in site.posts limit: 3 %}
+        <a class="lab-story" href="{{ post.url | relative_url }}">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %d, %Y' }}</time>
+          <div><h3>{{ post.title }}</h3>{% if post.description %}<p>{{ post.description }}</p>{% endif %}</div>
+          <span class="lab-story__arrow" aria-hidden="true">→</span>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="lab-home-note">
+    <p>Better movement.<br>Healthier lives.</p>
+    <div><strong>Digital Athlete Lab</strong><span>Human Performance Laboratory · Faculty of Kinesiology · University of Calgary</span></div>
+  </section>
 </div>

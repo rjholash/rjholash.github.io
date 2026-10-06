@@ -2,9 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
+nav_title: Teaching
 description: Learning by doing—from foundational courses to independent research in exercise physiology, measurement, and data science.
 nav: true
 nav_order: 6
+page_class: teaching-page
 ---
 
 ## Learning by doing

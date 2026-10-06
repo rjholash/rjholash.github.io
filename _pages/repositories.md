@@ -2,6 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
+nav_title: Tools
 description: Open-source code repositories for exercise physiology, muscle modeling, and research tools developed at the Digital Athlete Lab.
 nav: true
 nav_order: 4

@@ -2,6 +2,7 @@
 layout: people
 permalink: /people/
 title: lab team
+nav_title: People
 description: The brilliant minds powering the Digital Athlete Lab
 nav: true
 nav_order: 7

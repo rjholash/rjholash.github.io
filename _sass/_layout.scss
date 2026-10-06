@@ -6,6 +6,9 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: "Roboto", sans-serif;
+  font-size: 1.02rem;
+  line-height: 1.72;
 
   h1,
   h2,
@@ -19,7 +22,7 @@ body {
 
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
-  padding-top: 56px;
+  padding-top: 68px;
 }
 
 body.sticky-bottom-footer {
@@ -29,6 +32,482 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: $max-content-width;
+}
+
+.post-header {
+  margin-bottom: 3rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid var(--global-divider-color);
+
+  .post-title {
+    margin-bottom: 0.75rem;
+    font-family: "Roboto Slab", serif;
+    font-size: clamp(2.6rem, 7vw, 4.75rem);
+    font-weight: 400;
+    letter-spacing: -0.045em;
+    line-height: 0.98;
+  }
+
+  .post-description {
+    max-width: 46rem;
+    margin-bottom: 0;
+    color: var(--global-text-color-light);
+    font-size: 1.12rem;
+    line-height: 1.55;
+  }
+}
+
+.post article {
+  h2,
+  h3 {
+    font-family: "Roboto Slab", serif;
+    letter-spacing: -0.025em;
+  }
+
+  h2 {
+    margin-top: 3.75rem;
+    margin-bottom: 1.15rem;
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 400;
+  }
+
+  h3 {
+    margin-top: 2rem;
+  }
+}
+
+.lab-home {
+  margin-top: -1rem;
+}
+
+.eyebrow {
+  margin-bottom: 0.85rem;
+  color: var(--global-theme-color);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+.lab-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(380px, 1.05fr);
+  gap: clamp(2.5rem, 6vw, 5rem);
+  align-items: center;
+  min-height: 34rem;
+  padding: clamp(2.5rem, 6vw, 5rem) 0;
+}
+
+.lab-hero__copy h1 {
+  max-width: 10ch;
+  margin: 0 0 1.35rem;
+  font-family: "Roboto Slab", serif;
+  font-size: clamp(3.25rem, 6vw, 5.8rem);
+  font-weight: 400;
+  letter-spacing: -0.055em;
+  line-height: 0.94;
+}
+
+.lab-hero__lead {
+  max-width: 35rem;
+  color: var(--global-text-color-light);
+  font-family: "Roboto Slab", serif;
+  font-size: clamp(1.08rem, 2vw, 1.3rem);
+  line-height: 1.55;
+}
+
+.lab-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  margin: 1.8rem 0 2.25rem;
+}
+
+.lab-button {
+  display: inline-flex;
+  gap: 1.25rem;
+  align-items: center;
+  justify-content: center;
+  min-height: 3.25rem;
+  padding: 0.8rem 1.3rem;
+  border-radius: 0.25rem;
+  font-weight: 600;
+  transition: transform 160ms ease, background-color 160ms ease, color 160ms ease;
+
+  &:hover {
+    text-decoration: none;
+    transform: translateY(-2px);
+  }
+}
+
+.lab-button--primary {
+  color: #fff;
+  background: var(--global-accent-color);
+
+  &:hover {
+    color: #fff;
+    background: #d83e3e;
+  }
+}
+
+.lab-button--text {
+  min-height: auto;
+  padding-right: 0;
+  padding-left: 0;
+  border-bottom: 1px solid var(--global-theme-color);
+  border-radius: 0;
+  color: var(--global-text-color);
+}
+
+.lab-hero__mission {
+  margin: 0;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.lab-hero__media {
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  border-left: 6px solid var(--global-theme-color);
+  border-radius: 0.35rem;
+  background: var(--global-card-bg-color);
+  box-shadow: 0 1.25rem 3rem rgba(7, 23, 47, 0.12);
+
+  img {
+    display: block;
+    width: 100%;
+    max-width: none;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  figcaption {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    padding: 3.5rem 1.5rem 1.25rem;
+    color: #fff;
+    background: linear-gradient(transparent, rgba(7, 23, 47, 0.88));
+    text-align: right;
+
+    strong,
+    span {
+      color: inherit;
+    }
+
+    strong {
+      font-family: "Roboto Slab", serif;
+      font-size: 1.15rem;
+    }
+
+    span {
+      margin-top: 0.25rem;
+      font-size: 0.65rem;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.lab-section {
+  padding: clamp(3.5rem, 7vw, 6rem) 0;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.lab-section__heading {
+  display: flex;
+  gap: 2rem;
+  align-items: end;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+
+  h2 {
+    margin: 0;
+    font-family: "Roboto Slab", serif;
+    font-size: clamp(2.35rem, 5vw, 3.8rem);
+    font-weight: 400;
+    letter-spacing: -0.045em;
+  }
+}
+
+.lab-arrow-link {
+  flex: 0 0 auto;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--global-theme-color);
+  color: var(--global-text-color);
+  font-weight: 500;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.lab-feature-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+
+.lab-feature-card {
+  overflow: hidden;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.4rem;
+  color: var(--global-text-color);
+  background: var(--global-card-bg-color);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+
+  &:hover {
+    border-color: var(--global-theme-color);
+    color: var(--global-text-color);
+    box-shadow: 0 1rem 2.5rem rgba(7, 23, 47, 0.1);
+    text-decoration: none;
+    transform: translateY(-4px);
+  }
+}
+
+.lab-feature-card__image {
+  overflow: hidden;
+  aspect-ratio: 3 / 2;
+  background: var(--global-subtle-bg-color);
+
+  img {
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+    transition: transform 300ms ease;
+  }
+
+  .lab-feature-card:hover & img {
+    transform: scale(1.025);
+  }
+}
+
+.lab-feature-card__body {
+  padding: 1.15rem 1.2rem 1.35rem;
+
+  > span {
+    color: var(--global-theme-color);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  h3 {
+    margin: 0.45rem 0 0.65rem;
+    font-family: "Roboto Slab", serif;
+    font-size: 1.45rem;
+    font-weight: 400;
+    letter-spacing: -0.025em;
+  }
+
+  p {
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    line-height: 1.55;
+  }
+}
+
+.lab-story {
+  display: grid;
+  grid-template-columns: 8rem 1fr auto;
+  gap: 1.5rem;
+  align-items: start;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--global-divider-color);
+  color: var(--global-text-color);
+
+  &:last-child {
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+
+  &:hover {
+    color: var(--global-text-color);
+    text-decoration: none;
+
+    .lab-story__arrow {
+      transform: translateX(4px);
+    }
+  }
+
+  time {
+    color: var(--global-theme-color);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  h3 {
+    margin: 0 0 0.4rem;
+    font-family: "Roboto Slab", serif;
+    font-size: 1.35rem;
+    font-weight: 400;
+  }
+
+  p {
+    max-width: 48rem;
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+}
+
+.lab-story__arrow {
+  color: var(--global-theme-color);
+  font-size: 1.4rem;
+  transition: transform 160ms ease;
+}
+
+.lab-home-note {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 0;
+  border-top: 1px solid var(--global-divider-color);
+
+  > p {
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-family: "Roboto Slab", serif;
+    font-size: 1.25rem;
+    font-style: italic;
+    line-height: 1.25;
+  }
+
+  > div {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+
+    span {
+      color: var(--global-text-color-light);
+      font-size: 0.78rem;
+    }
+  }
+}
+
+.teaching-page {
+  .post {
+    max-width: 860px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .post-header::before {
+    display: block;
+    margin-bottom: 1rem;
+    color: var(--global-theme-color);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    content: "Experiential learning · Exercise physiology";
+  }
+
+  article > ol {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin: 1.75rem 0 2rem;
+    padding: 0;
+    list-style: none;
+    counter-reset: teaching-step;
+
+    li {
+      min-height: 10rem;
+      padding: 1.25rem;
+      border: 1px solid var(--global-divider-color);
+      border-top: 3px solid var(--global-theme-color);
+      border-radius: 0.35rem;
+      background: var(--global-card-bg-color);
+      counter-increment: teaching-step;
+
+      &::before {
+        display: block;
+        margin-bottom: 1rem;
+        color: var(--global-theme-color);
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        content: "0" counter(teaching-step);
+      }
+    }
+  }
+
+  article > ul {
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin-bottom: 0.75rem;
+      padding: 1rem 1.1rem;
+      border-left: 3px solid var(--global-accent-color);
+      background: var(--global-subtle-bg-color);
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .lab-hero {
+    grid-template-columns: 1fr;
+    min-height: 0;
+    padding-top: 2.5rem;
+  }
+
+  .lab-hero__copy h1 {
+    font-size: clamp(3rem, 13vw, 4.25rem);
+  }
+
+  .lab-feature-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .lab-section__heading {
+    align-items: start;
+  }
+
+  .lab-story {
+    grid-template-columns: 1fr auto;
+
+    time {
+      grid-column: 1 / -1;
+    }
+  }
+
+  .lab-home-note {
+    align-items: start;
+
+    > div {
+      text-align: left;
+    }
+  }
+
+  .teaching-page article > ol {
+    grid-template-columns: 1fr;
+
+    li {
+      min-height: 0;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .lab-section__heading,
+  .lab-home-note {
+    flex-direction: column;
+  }
 }
 
 // Profile

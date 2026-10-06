@@ -1,6 +1,7 @@
 ---
 layout: page
 title: research projects
+nav_title: Research
 permalink: /projects/
 description: Current and recent research projects from the Digital Athlete Lab
 nav: true
