@@ -2,61 +2,54 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Overview of courses I teach, my instructional approach, and the learning philosophy that guides my classroom design.
+description: Learning by doing—from foundational courses to independent research in exercise physiology, measurement, and data science.
 nav: true
 nav_order: 6
 ---
 
-## Teaching Philosophy
+## Learning by doing
 
-I strongly believe that we “learn by doing.” Inspired by John Dewey’s experiential learning principles and refined through my background in outdoor education and coaching, I view education as a dynamic process rooted in activity, reflection, and critical appraisal. Students don’t just absorb facts—they navigate a learning journey. To support that journey, I build clear cognitive maps using detailed course outlines, modular design, and interactive teaching strategies.
+My teaching begins with a simple idea: students learn science by practising it. A physiological measurement becomes meaningful when they collect it, question it, analyze it, and decide what it can—and cannot—tell them.
 
-I aim to create structured, flexible, and responsive learning environments. Whether I’m leading from the front in a foundational undergraduate course, from the middle in advanced topics, or from the rear in graduate mentorship, I adapt my instructional role to meet students at their stage of learning. I embed regular assessments as waypoints for growth and emphasize formative feedback, student independence, and self-reflection. I also encourage constructive challenge—inviting students to question assumptions and even challenge my own decisions as a path to deeper understanding.
+That approach grew from my background in outdoor education and coaching and now shapes courses ranging from large foundational classes to small graduate laboratories. I think of each course as a guided journey. Early on, I lead from the front by making the route and expectations clear. As students gain experience, I move alongside them as a coach. By the end, I aim to step back so they can make informed decisions, challenge assumptions, and take ownership of their work.
 
-My pedagogical methods incorporate cognitive neuroscience principles (especially those articulated by Antonio Damasio), Kolb’s experiential learning cycle, and my own field experience as an instructor and guide. These influences converge in a goal to develop learners who are confident, critical, and capable of charting their own educational paths.
+Clear structure makes that independence possible. Course outlines provide the map, modules mark meaningful stages, and regular low-stakes assessments create opportunities to pause and adjust. Formative feedback, reflection, and constructive disagreement are not additions to the course—they are part of how students learn to think like scientists.
 
----
+## From technique to inquiry
 
-## Courses Taught
+In exercise physiology, knowing a protocol is different from being able to perform it well. My laboratory teaching connects three stages of learning:
 
-I have taught a wide array of undergraduate and graduate courses across multiple levels and formats, including large introductory lectures, small graduate seminars, applied labs, and online/hybrid offerings. Below is a summary of courses taught at the University of Calgary:
+1. **Prepare:** students encounter the purpose, sequence, and limitations of a method before entering the lab.
+2. **Practise:** guided repetition and immediate feedback help students develop reliable technique.
+3. **Interpret:** students work with the resulting data, evaluate its quality, and communicate an evidence-based conclusion.
 
-### Undergraduate Courses
+This structure is especially visible in **KNES 375: Tests and Measurements in Kinesiology**. A course-based undergraduate research experience moved the laboratory beyond following recipes: students collect authentic performance data, build athlete profiles, and translate their findings into practical recommendations. The goal is not simply to complete a test. It is to understand how measurement choices shape the story the data can support.
 
-- **KNES 213 – Introduction to Research in Kinesiology**
-  Taught: 2019–2026 (Fall, Winter, Spring)
-  Typical Enrollment: 120–150 students
+## Teaching innovation through co-creation
 
-- **KNES 375 – Tests and Measurement in Exercise Physiology**
-  Taught: 2020–2026 (Winter, Fall)
-  Typical Enrollment: 75–84 students
+The **MELT (Multimedia-Experiential Learning & Teaching)** initiative extends this approach by pairing concise demonstration media with hands-on laboratory practice. Supported by a **$40,000 University of Calgary Scholarship of Teaching and Learning grant**, the project develops resources students can use before, during, and after a lab, preserving class time for coaching, troubleshooting, and higher-order decision-making.
 
-- **KNES 355 – Human Growth and Development**
-  Taught: 2020–2021 (Winter)
-  Enrollment: 250–262 students
+Students are partners in this work. Honours student **Andrew Filewich** developed demonstration videos and interactive learning modules for blood-pressure and heart-rate assessment, the modified Canadian Aerobic Fitness Test, and skinfold procedures. Other student contributors have helped expand the media library into muscle preparation and protein-analysis techniques. Their work improves the experience of the students who follow while giving the creators meaningful experience in research, communication, and educational design.
 
-- **KNES 475 – Advanced Topics in Exercise Physiology**
-  Taught: 2022 (Winter)
-  Enrollment: 40 students
+[Explore the MELT teaching project](/projects/2023-06-20-melt-study/) · [Read Andrew Filewich's project story](/news/2025-09-15-andrew-filewich-honours/)
 
-- **KNES 381 – Computer Applications in Kinesiology**
-  Taught: 2010–2026 (Fall, Winter)
-  Enrollment: 24 students per term
+## Courses
 
-### Graduate Courses
+### Undergraduate
 
-- **KNES 606 / KNES 613 / KNES 614 – Practical Skills for Applied Exercise Physiology**
-  Taught: 2020–2026 (Fall/Winter)
-  Enrollment: 9–14 students per term
+- **KNES 213 – Introduction to Research in Kinesiology** (2019–2026): a large foundational course serving approximately 150 students per section.
+- **KNES 375 – Tests and Measurements in Kinesiology** (2020–2025): applied physiological assessment, data interpretation, and inquiry-driven laboratory work.
+- **KNES 381 – Computer Applications in Kinesiology** (2010–2026): programming and data analysis in a focused class of approximately 24 students.
+- **KNES 355 – Human Growth and Development** (2020–2021): large-enrolment instruction across the human lifespan.
+- **KNES 475 – Physiological Bases of Athletic Performance** (2022): the evidence connecting physiology, training, and performance.
 
-### Course Design Philosophy
+### Graduate
 
-Each course is structured using a macro–meso–micro development approach:
+- **KNES 606 – Applied Exercise Physiology Practicum** (2020–2024)
+- **KNES 613/614 – Applied Exercise Physiology Practicum** (2025–2026)
 
-- **Macro**: Course outlines with clear goals, evaluation timelines, and topic progressions.
-- **Meso**: Modular design with built-in assessment cycles.
-- **Micro**: Daily lesson plans responsive to student progress and feedback.
+These graduate laboratories emphasize practical assessment skills, critical evaluation of methods, and student-led demonstrations in small-group settings.
 
-Assignments are scaffolded to foster confidence early and independence later. Formative quizzes, interactive polling, and experiential labs allow students to engage meaningfully and safely with complex content. I design courses to be flexible enough to shift between in-person and online formats, ensuring pedagogical integrity across modalities.
+## The destination
 
-My ultimate aim is to help students build knowledge, gain skills, and develop the confidence to challenge ideas—including my own—in pursuit of truth and understanding.
+The best evidence of learning is not that students can repeat an answer. It is that they can enter an unfamiliar problem, choose a defensible path through it, and explain both their conclusion and its limits. Whether a student is encountering research methods for the first time or preparing to lead an advanced laboratory assessment, my aim is the same: to help them build the knowledge, practical skill, and confidence to navigate independently.
